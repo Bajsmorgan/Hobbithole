@@ -343,6 +343,25 @@
             }
         },
         {
+            "Key": "64811ea6-12da-4a95-9495-b2554facbc5c",
+            "Value": {
+                "id": "a9ae1734-a3f2-4160-b73b-d4593b7afa59",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Obj_Collision\/Obj_Collision.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "65371396-eef9-4e8f-b389-461bdce9984c",
             "Value": {
                 "id": "bf90ec52-6f8c-48c9-9a5e-000e99c4296a",
@@ -625,6 +644,25 @@
                 ],
                 "resourcePath": "views\/ac2a815e-93fe-448f-b24b-e7cc8270fb19.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bc47e913-a25f-4ed2-97bc-83d78534820c",
+            "Value": {
+                "id": "4aae7d9d-a4c5-4093-9528-2ece0504b541",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Obj_Player\/Obj_Player.yy",
+                "resourceType": "GMObject"
             }
         },
         {

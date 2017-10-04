@@ -4,7 +4,8 @@
     "mvc": "1.1",
     "name": "a64b6133-9ac0-4bdf-9e7f-1852e6789782",
     "children": [
-        
+        "bc47e913-a25f-4ed2-97bc-83d78534820c",
+        "64811ea6-12da-4a95-9495-b2554facbc5c"
     ],
     "filterType": "GMObject",
     "folderName": "objects",
