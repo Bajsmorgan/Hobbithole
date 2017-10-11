@@ -9,10 +9,10 @@ Direction = DOWN;
 Action = IDLE;
 
 View[RIGHT, IDLE] = spr_idle_right;
-View[RIGHT, MOVE] = spr_idle_right; //Running
+View[RIGHT, MOVE] = spr_run_right;
 View[UP, IDLE] = spr_idle_up;
-View[UP, MOVE] = spr_idle_up; //Running
+View[UP, MOVE] = spr_run_up;
 View[LEFT, IDLE] = spr_idle_left;
 View[LEFT, MOVE] = spr_run_left;
 View[DOWN, IDLE] = spr_idle_down;
-View[DOWN, MOVE] = spr_idle_down; //Running
+View[DOWN, MOVE] = spr_run_down;
