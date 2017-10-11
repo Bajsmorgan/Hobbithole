@@ -77,6 +77,14 @@
             }
         },
         {
+            "Key": "0c91c6b7-58fb-4e21-8062-dfb1b751590d",
+            "Value": {
+                "id": "da2ca3c9-cb85-4a97-b677-6a81012d56f3",
+                "resourcePath": "sprites\\spr_robot_sleep\\spr_robot_sleep.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "146b6829-2e63-4d66-86a6-5fd35451b57a",
             "Value": {
                 "id": "80dbbcbb-2910-4c9a-af59-945ebcd3b720",
