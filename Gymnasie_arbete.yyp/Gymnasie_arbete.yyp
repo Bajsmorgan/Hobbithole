@@ -50,7 +50,22 @@
             "Key": "0c91c6b7-58fb-4e21-8062-dfb1b751590d",
             "Value": {
                 "id": "da2ca3c9-cb85-4a97-b677-6a81012d56f3",
+<<<<<<< HEAD
                 "resourcePath": "sprites\\spr_robot_wake\\spr_robot_wake.yy",
+=======
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_robot_sleep\/spr_robot_sleep.yy",
+>>>>>>> 7408ee907dddb88c5174b09077af8664110d910a
                 "resourceType": "GMSprite"
             }
         },
@@ -107,6 +122,25 @@
             "Value": {
                 "id": "4850afeb-91d1-4a9f-a2ac-af9943071107",
                 "resourcePath": "sprites\/spr_idle_template_old\/spr_idle_template_old.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3f33f759-03ad-4ef8-adc3-952c41ce2e97",
+            "Value": {
+                "id": "c3d9bea1-85cc-41ff-92db-a2105c20ad81",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/ColliderSmall\/ColliderSmall.yy",
                 "resourceType": "GMSprite"
             }
         },
