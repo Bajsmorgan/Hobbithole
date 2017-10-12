@@ -27,4 +27,4 @@ var _length = Speed * (xAxis != 0 || yAxis != 0);
 xAxis = lengthdir_x(_length, _direction);
 yAxis = lengthdir_y(_length, _direction);
 
-MoveCollide(xAxis, yAxis, Obj_Collision);
+MovementCollide(xAxis, yAxis, Obj_Collision);

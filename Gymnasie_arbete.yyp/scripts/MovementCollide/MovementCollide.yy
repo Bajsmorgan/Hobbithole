@@ -1,8 +1,8 @@
 {
-    "id": "54cf29c1-05ab-4e2c-8645-9bd238cce340",
+    "id": "49c6e9c6-0799-440e-90bb-b90935040772",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "script7",
+    "name": "MovementCollide",
     "IsCompatibility": false,
     "IsDnD": false
 }
