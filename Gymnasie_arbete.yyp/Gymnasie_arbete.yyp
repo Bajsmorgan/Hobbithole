@@ -127,6 +127,25 @@
             }
         },
         {
+            "Key": "49c6e9c6-0799-440e-90bb-b90935040772",
+            "Value": {
+                "id": "8077f11f-a77d-420d-8237-dbe6660645b7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/MovementCollide\/MovementCollide.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4c19738d-a689-49bf-86d4-3f5295c2e348",
             "Value": {
                 "id": "03d756d0-6fde-44cb-8da6-1d69e5d827c1",
@@ -518,7 +537,8 @@
         "33082a85-9395-4147-8d6a-d6006d93fc51",
         "a60b1a81-b440-4e54-8db2-f18375deb941",
         "2b4b04c7-8bf1-4de5-bc4f-0218f7138926",
-        "a5e3731e-2d5d-452e-8c3f-d8059751ccb4"
+        "a5e3731e-2d5d-452e-8c3f-d8059751ccb4",
+        "49c6e9c6-0799-440e-90bb-b90935040772"
     ],
     "tutorial": ""
 }
