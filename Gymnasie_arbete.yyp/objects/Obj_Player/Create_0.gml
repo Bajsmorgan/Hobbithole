@@ -3,6 +3,9 @@
 xAxis = 0; //left / right movement
 yAxis = 0; //up / down movement
 Speed = 4; //How fast you move
+_direction = 0;
+_length = 0;
+face = 0;
 State = StateIDLE;
 
 Direction = DOWN;
