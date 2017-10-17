@@ -130,17 +130,6 @@
             "Key": "49c6e9c6-0799-440e-90bb-b90935040772",
             "Value": {
                 "id": "8077f11f-a77d-420d-8237-dbe6660645b7",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "scripts\/MovementCollide\/MovementCollide.yy",
                 "resourceType": "GMScript"
             }
@@ -165,15 +154,7 @@
             "Key": "4ec5af3b-5063-4a81-89ac-d9920e84897f",
             "Value": {
                 "id": "95c426dd-9deb-437a-9dce-0f25a5d9a7bd",
-                "resourcePath": "sprites\\spr_run_left1\\spr_run_left1.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "4f1c976e-b021-4f28-ae01-338478437dc9",
-            "Value": {
-                "id": "6b44013b-9f86-439a-a74d-c160c262b41e",
-                "resourcePath": "sprites\/spr_run_left\/spr_run_left.yy",
+                "resourcePath": "sprites\\spr_run_left\\spr_run_left.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -378,17 +359,6 @@
             }
         },
         {
-<<<<<<< HEAD
-=======
-            "Key": "b108e6b0-9958-4a66-92ab-b676f2d30617",
-            "Value": {
-                "id": "32f3e266-1ad3-4999-a5b0-c0ea786b48bc",
-                "resourcePath": "sprites\\spr_crouch\\spr_crouch.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
->>>>>>> parent of 972d956... asdas
             "Key": "bc47e913-a25f-4ed2-97bc-83d78534820c",
             "Value": {
                 "id": "4aae7d9d-a4c5-4093-9528-2ece0504b541",
