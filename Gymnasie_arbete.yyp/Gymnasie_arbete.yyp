@@ -379,7 +379,18 @@
         },
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+            "Key": "ae3b89f1-8727-44a8-a99a-76e19909001e",
+            "Value": {
+                "id": "dd2649ef-6998-45ca-88a8-04c1a45a6bc4",
+                "resourcePath": "sprites\\sprite15\\sprite15.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+>>>>>>> parent of 82e4e8f... sdfasdf
             "Key": "b108e6b0-9958-4a66-92ab-b676f2d30617",
             "Value": {
                 "id": "32f3e266-1ad3-4999-a5b0-c0ea786b48bc",
@@ -388,7 +399,10 @@
             }
         },
         {
+<<<<<<< HEAD
 >>>>>>> parent of 972d956... asdas
+=======
+>>>>>>> parent of 82e4e8f... sdfasdf
             "Key": "bc47e913-a25f-4ed2-97bc-83d78534820c",
             "Value": {
                 "id": "4aae7d9d-a4c5-4093-9528-2ece0504b541",
