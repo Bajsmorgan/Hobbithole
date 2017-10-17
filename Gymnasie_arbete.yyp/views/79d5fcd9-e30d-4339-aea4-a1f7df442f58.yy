@@ -8,13 +8,8 @@
         "e7d58e83-80ea-400c-8177-a963d9869d35",
         "f3a5305d-0368-4ffc-9be2-d44f9057ae46",
         "ebf1067d-cc75-4198-9691-3f3da18d11a6",
-<<<<<<< HEAD
         "3b1cdd5e-0304-4874-9f1f-68c50e4df24a",
         "ae3b89f1-8727-44a8-a99a-76e19909001e"
-=======
-        "763f3314-dc38-4614-ae44-162dc4e70237",
-        "3b1cdd5e-0304-4874-9f1f-68c50e4df24a"
->>>>>>> parent of 8386601... Merge branch 'master' of https://github.com/Bajsmorgan/Hobbithole
     ],
     "filterType": "GMSprite",
     "folderName": "Idle",
