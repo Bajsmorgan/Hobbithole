@@ -419,6 +419,44 @@
             }
         },
         {
+            "Key": "5bb54e37-cf3c-420a-ba2f-f6695392fcc0",
+            "Value": {
+                "id": "a9ff7318-b999-498f-a9e7-a8cb2ede4f46",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/colliderCell\/colliderCell.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5e48c28a-f50d-49de-bb0d-4f5d84da4e54",
+            "Value": {
+                "id": "2066a017-4649-4cd9-96d6-7b2d60d02f43",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Obj_parProjectile\/Obj_parProjectile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "64811ea6-12da-4a95-9495-b2554facbc5c",
             "Value": {
                 "id": "a9ae1734-a3f2-4160-b73b-d4593b7afa59",
@@ -856,6 +894,25 @@
             }
         },
         {
+            "Key": "c519f1fa-35b7-468b-a7d1-ee38571db8e5",
+            "Value": {
+                "id": "51ca3b39-1956-49e1-a699-1b3c99047c22",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/StateRANGEDATTACK\/StateRANGEDATTACK.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "0c0fbd83-13c9-4b05-ad17-b52885ab52f4",
@@ -1188,7 +1245,8 @@
         "2b4b04c7-8bf1-4de5-bc4f-0218f7138926",
         "a5e3731e-2d5d-452e-8c3f-d8059751ccb4",
         "49c6e9c6-0799-440e-90bb-b90935040772",
-        "3314b450-b8a8-484a-b75c-b68e195caa88"
+        "3314b450-b8a8-484a-b75c-b68e195caa88",
+        "c519f1fa-35b7-468b-a7d1-ee38571db8e5"
     ],
     "tutorial": ""
 }

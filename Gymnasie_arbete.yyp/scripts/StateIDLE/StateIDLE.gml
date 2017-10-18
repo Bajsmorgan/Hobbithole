@@ -1,5 +1,11 @@
 GetInput();
-
+//
+if(Attack)
+{
+	image_index = 0; //reset animation
+	State = StateRANGEDATTACK;
+}
+//
 if (xAxis != 0 || yAxis != 0){
 	Action = MOVE;
 	SpriteFace();
@@ -13,7 +19,7 @@ _length = Speed * (xAxis != 0 || yAxis != 0);
 xAxis = lengthdir_x(_length, _direction);
 yAxis = lengthdir_y(_length, _direction);
 
-//SWITCH
+//SWITCH Face
 switch(face)
 {
 	case 0:
@@ -31,4 +37,4 @@ switch(face)
 		
 }
 
-MovementCollide(xAxis, yAxis, Obj_Collision);
+MovementCollide(xAxis, yAxis, Obj_Collision, false);
