@@ -8,4 +8,4 @@
 #macro MOVE 1
 #macro RANGEDATTACK 2
 //Misc
-#macro CELL 32 //offset
+#macro CELL 64 //offset
