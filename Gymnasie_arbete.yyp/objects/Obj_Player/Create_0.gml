@@ -3,6 +3,7 @@
 xAxis = 0; //left / right movement
 yAxis = 0; //up / down movement
 Speed = 4; //How fast you move
+<<<<<<< HEAD
 _direction = 0;
 _length = 0;
 face = 0;
@@ -11,6 +12,8 @@ CanAttack = true;
 xOffset = 0;
 yOffset = 0;
 //
+=======
+>>>>>>> 40ad68f3ffdb590c1eb747cc8f7fcc72d3d30730
 State = StateIDLE;
 ObjectType = CollisionType.Friendly;
 
