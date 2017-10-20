@@ -1,0 +1,17 @@
+{
+    "id": "f054fa14-f833-4604-9d9a-7779c1e3e0cb",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "f054fa14-f833-4604-9d9a-7779c1e3e0cb",
+    "children": [
+        "c9f37878-3311-4b08-b5e3-22ba05d48ad0",
+        "2da2b3cf-d866-4502-bdb1-168be1eeee96",
+        "31c3f815-3185-4851-afa7-513763b68556",
+        "fe91d23d-475f-458d-b63f-0b7131e4f3ff",
+        "57a54691-ebd0-4bab-96b6-e74ca07ed494"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Effect",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
