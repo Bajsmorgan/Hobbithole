@@ -4,10 +4,10 @@
     "mvc": "1.1",
     "name": "146b6829-2e63-4d66-86a6-5fd35451b57a",
     "children": [
-        "180fc9f4-561f-4d09-8ac1-0a637bed83ab",
-        "d3d9fc10-aa41-47f4-96c0-263a0ef0e8f5",
-        "7988f4e1-aaf1-4b01-bed0-20e05d67b526",
-        "ceb7dd50-f9f9-4ab7-b867-caccf5a10f83"
+        "d5319813-2163-42f3-85ed-fc51c5b1f8ed",
+        "396230c3-2ca6-4c8c-babc-ff22c6483853",
+        "497bf29d-5de7-45d8-8577-b11b6a771dd5",
+        "eea2a7b5-a431-4069-9a49-7d68d92752c2"
     ],
     "filterType": "GMSprite",
     "folderName": "Run",

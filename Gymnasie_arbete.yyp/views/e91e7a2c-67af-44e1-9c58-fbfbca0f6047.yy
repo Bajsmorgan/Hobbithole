@@ -4,10 +4,11 @@
     "mvc": "1.1",
     "name": "e91e7a2c-67af-44e1-9c58-fbfbca0f6047",
     "children": [
-        "659432ab-db04-44cb-a7a2-76b612884659",
-        "564c1383-aaa2-4808-978f-51a08a45caa1",
-        "412ccc16-cad8-49f1-a294-f5f3dac48a15",
-        "ebf1067d-cc75-4198-9691-3f3da18d11a6"
+        "06b6e27b-ff89-4352-996e-8359a071df94",
+        "a1a4272c-0f87-426f-a044-2c52008e37ff",
+        "e2734984-dd9d-4edc-947b-4cb4f37dd094",
+        "dc0f66d1-3c3c-4619-93f8-4828cf316f84",
+        "cf28c53a-bcb4-4af0-beba-c18cf1a27b3a"
     ],
     "filterType": "GMSprite",
     "folderName": "Idle",
