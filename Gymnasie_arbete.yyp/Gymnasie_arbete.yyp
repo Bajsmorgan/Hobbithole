@@ -103,6 +103,22 @@
             }
         },
         {
+            "Key": "2c1f9c07-caed-40b9-9c30-e7b9c05d969a",
+            "Value": {
+                "id": "ad543810-8e9c-4383-b567-5300b74d4dc1",
+                "resourcePath": "sprites\\spr_melee_whirl_void\\spr_melee_whirl_void.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2da2b3cf-d866-4502-bdb1-168be1eeee96",
+            "Value": {
+                "id": "610719b2-0e6a-4698-9e06-62b5260e6a89",
+                "resourcePath": "sprites\\spr_melee_whirl_fire\\spr_melee_whirl_fire.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "33082a85-9395-4147-8d6a-d6006d93fc51",
             "Value": {
                 "id": "b020193d-453f-4550-aa9f-ad20e416c27d",
@@ -356,6 +372,14 @@
                 "id": "4aae7d9d-a4c5-4093-9528-2ece0504b541",
                 "resourcePath": "objects\/Obj_Player\/Obj_Player.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c9f37878-3311-4b08-b5e3-22ba05d48ad0",
+            "Value": {
+                "id": "d401102d-771a-45cd-a7c8-35b9781e85f8",
+                "resourcePath": "sprites\\spr_melee_whirl_wind\\spr_melee_whirl_wind.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
