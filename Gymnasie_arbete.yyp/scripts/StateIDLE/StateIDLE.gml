@@ -1,18 +1,21 @@
 GetInput();
-
+//
+if (Attack)
+{
+	image_index = 0;
+	State = StateRANGEDATTACK;
+}
+//
 if (xAxis != 0 || yAxis != 0)
+{
 	Action = MOVE;
-else
+	GetFace();
+}else{
 	Action = IDLE;
-	
+}
 //get direction and length
-var _direction = point_direction(0, 0, xAxis, yAxis);
+_direction = point_direction(0, 0, xAxis, yAxis);
 var _length = Speed * (xAxis != 0 || yAxis != 0);
-//get the macro
-var face = round(_direction / 90);
-if(face == 4)
-	face = 0;
-//SWITCH
 switch(face)
 {
 	case 0:

@@ -2,7 +2,6 @@ var _x = argument[0];
 var _y = argument[1];
 var _obj = argument[2];
 
-
 if (place_meeting(x+_x, y, _obj))
 {
 	while(!place_meeting(x+sign(_x), y, _obj))
