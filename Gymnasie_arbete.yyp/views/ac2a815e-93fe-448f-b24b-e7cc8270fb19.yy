@@ -4,11 +4,13 @@
     "mvc": "1.1",
     "name": "ac2a815e-93fe-448f-b24b-e7cc8270fb19",
     "children": [
-        "4cd9f741-81d7-4ac3-be41-e58e5523e737",
-        "9893d360-3957-4602-86ea-493dcb24cf6b"
+        "b0a47d5a-1252-464c-a665-84576b5291a7",
+        "5051415d-8eb7-4a80-9305-01c2131014a9",
+        "25cf0083-08a0-418b-96f8-87b8a524dfee",
+        "c03d64d0-a53f-448b-b027-982c4d045fab"
     ],
     "filterType": "GMSprite",
-    "folderName": "Enemy",
+    "folderName": "Creature",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
