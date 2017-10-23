@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "00302397-c5ef-4b4e-824e-282031d45257",
+            "Value": {
+                "id": "ff7a57ae-133e-42ab-b78c-945795285bb7",
+                "resourcePath": "sprites\\spr_gui_boss\\spr_gui_boss.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "059eea8a-6c7e-4e3f-83b8-e135d02fe06b",
             "Value": {
                 "id": "1680dbf2-2f4a-4f83-9643-dc06aabd4c09",
@@ -367,6 +375,14 @@
             }
         },
         {
+            "Key": "95b1cc8f-4e59-4b0b-a964-ef6ab8059bef",
+            "Value": {
+                "id": "eddbafe5-0f33-4947-b85b-559e020081e5",
+                "resourcePath": "tilesets\\tileset_grass\\tileset_grass.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "95e9ea58-6d06-4504-b3e8-5df1b3e22a7c",
             "Value": {
                 "id": "c3e1c334-e1ad-4831-8367-ed45a1e62f03",
@@ -396,6 +412,14 @@
                 "id": "35ea091e-bec3-46b0-b5bd-7da34c8d1069",
                 "resourcePath": "views\/9bbb15e5-9186-4e9f-8b31-ffca2682f96a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9dc1e0ac-9472-4ee0-883e-4e43d64786be",
+            "Value": {
+                "id": "4b7120d2-9d18-4618-9c4b-4263f76d82d2",
+                "resourcePath": "sprites\\spr_enviroment_secretpath\\spr_enviroment_secretpath.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -468,6 +492,14 @@
                 "id": "b64bb2ef-bd73-4617-b07e-48ba26698eda",
                 "resourcePath": "views\/ac2a815e-93fe-448f-b24b-e7cc8270fb19.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ada18a75-6afe-45f6-86ae-23e350c0ec3b",
+            "Value": {
+                "id": "a77f16b1-e962-4621-b917-036eef04fb2d",
+                "resourcePath": "sprites\\spr_enviroment_grass\\spr_enviroment_grass.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
