@@ -1,17 +1,25 @@
 GetInput();
-
-if (xAxis != 0 || yAxis != 0)
+//
+if (Attack)
+{
+	image_index = 0;
+	State = StateRANGEDATTACK;
+}
+//
+if (xAxis != 0 || yAxis != 0){
 	Action = MOVE;
-else
+	getFace();
+	if (Dash)
+	{
+		State = StateDash;
+		alarm[0] = room_speed/6;
+	}
+}else
 	Action = IDLE;
 	
 //get direction and length
-var _direction = point_direction(0, 0, xAxis, yAxis);
-var _length = Speed * (xAxis != 0 || yAxis != 0);
-//get the macro
-var face = round(_direction / 90);
-if(face == 4)
-	face = 0;
+_direction = point_direction(0, 0, xAxis, yAxis);
+_length = Speed * (xAxis != 0 || yAxis != 0);
 //SWITCH
 switch(face)
 {
