@@ -1,4 +1,5 @@
 // Initialize
+tilemap = layer_tilemap_get_id("Collision");
 
 xAxis = 0; //left / right movement
 yAxis = 0; //up / down movement
