@@ -991,14 +991,6 @@
             }
         },
         {
-            "Key": "95b1cc8f-4e59-4b0b-a964-ef6ab8059bef",
-            "Value": {
-                "id": "eddbafe5-0f33-4947-b85b-559e020081e5",
-                "resourcePath": "tilesets\/tileset_grass\/tileset_grass.yy",
-                "resourceType": "GMTileSet"
-            }
-        },
-        {
             "Key": "95e9ea58-6d06-4504-b3e8-5df1b3e22a7c",
             "Value": {
                 "id": "c3e1c334-e1ad-4831-8367-ed45a1e62f03",
@@ -1836,14 +1828,6 @@
                 "id": "87740d04-c20f-4905-aefe-c30628a61158",
                 "resourcePath": "views\/f9ebfda6-2f6b-4b30-a79e-909da0078c2d.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "fd2a9cc7-e49e-4338-88b7-203ecd672e77",
-            "Value": {
-                "id": "be613732-25f8-42f3-91c8-e04663e833a6",
-                "resourcePath": "tilesets\/tileset_tree\/tileset_tree.yy",
-                "resourceType": "GMTileSet"
             }
         },
         {
