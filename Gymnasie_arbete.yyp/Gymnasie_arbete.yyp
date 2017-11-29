@@ -96,17 +96,6 @@
             }
         },
         {
-<<<<<<< HEAD
-            "Key": "05b963b3-f94e-4486-83c4-324f1f5adba6",
-            "Value": {
-                "id": "b0da9135-7dce-49ee-ae97-afd120f6c471",
-                "resourcePath": "sprites\/TileCollision\/TileCollision.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-=======
->>>>>>> a16654a24c9c42f1ad92ecc878d1df631ed83167
             "Key": "06134edb-6d47-4dab-8f6e-ad9cf29c6892",
             "Value": {
                 "id": "7cc35eec-de52-49b0-beda-f1ed64b32833",
@@ -145,28 +134,6 @@
             }
         },
         {
-<<<<<<< HEAD
-=======
-            "Key": "07f1dc2b-7d20-468f-8033-bee97c721174",
-            "Value": {
-                "id": "bdc3c144-b0aa-415f-8ebc-aa02e2b7b8d3",
-                "resourcePath": "sprites\/spr_dash_left\/spr_dash_left.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-<<<<<<< HEAD
-            "Key": "09176370-72c6-4ba0-becc-893a35125ac5",
-            "Value": {
-                "id": "afab6591-f4fe-462c-a259-755559bdfe8a",
-                "resourcePath": "tilesets\/tileset_collision\/tileset_collision.yy",
-                "resourceType": "GMTileSet"
-            }
-        },
-        {
-=======
->>>>>>> a16654a24c9c42f1ad92ecc878d1df631ed83167
->>>>>>> 67eaf6a13fa3cad322444e77dbd51b0f339537ef
             "Key": "098b1d48-29bb-4af3-be1c-c1ccdaf41bbd",
             "Value": {
                 "id": "f0301af6-a627-447d-9940-ee0514f52879",
@@ -854,7 +821,6 @@
             "Key": "73450a15-845f-446e-a45a-7a2fce5da663",
             "Value": {
                 "id": "2f204445-8aba-401c-a71b-0d7e994ff8ed",
-<<<<<<< HEAD
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -867,13 +833,6 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/spr_enviroment_trees\/spr_enviroment_trees.yy",
-=======
-<<<<<<< HEAD
-                "resourcePath": "sprites\/spr_enviroment_trees\/spr_enviroment_trees.yy",
-=======
-                "resourcePath": "sprites\\spr_enviroment_trees\\spr_enviroment_trees.yy",
->>>>>>> a16654a24c9c42f1ad92ecc878d1df631ed83167
->>>>>>> 67eaf6a13fa3cad322444e77dbd51b0f339537ef
                 "resourceType": "GMSprite"
             }
         },
@@ -1356,7 +1315,6 @@
             "Key": "ad523ff4-17f5-4107-bea4-ecb9e1f485f9",
             "Value": {
                 "id": "82d9336f-87a9-493e-b138-2ca59d0289cd",
-<<<<<<< HEAD
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -1369,13 +1327,6 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/spr_effect_fireball_big\/spr_effect_fireball_big.yy",
-=======
-<<<<<<< HEAD
-                "resourcePath": "sprites\/spr_effect_fireball_big\/spr_effect_fireball_big.yy",
-=======
-                "resourcePath": "sprites\\spr_effect_fireball_big\\spr_effect_fireball_big.yy",
->>>>>>> a16654a24c9c42f1ad92ecc878d1df631ed83167
->>>>>>> 67eaf6a13fa3cad322444e77dbd51b0f339537ef
                 "resourceType": "GMSprite"
             }
         },
@@ -1687,7 +1638,6 @@
             "Key": "d0a3970b-1faa-4d7d-a601-d176c5f5badd",
             "Value": {
                 "id": "9cdc0e17-03f9-41f5-ad48-b058972d4d91",
-<<<<<<< HEAD
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -1700,13 +1650,6 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/spr_effect_fireball_small\/spr_effect_fireball_small.yy",
-=======
-<<<<<<< HEAD
-                "resourcePath": "sprites\/spr_effect_fireball_small\/spr_effect_fireball_small.yy",
-=======
-                "resourcePath": "sprites\\spr_effect_fireball_small\\spr_effect_fireball_small.yy",
->>>>>>> a16654a24c9c42f1ad92ecc878d1df631ed83167
->>>>>>> 67eaf6a13fa3cad322444e77dbd51b0f339537ef
                 "resourceType": "GMSprite"
             }
         },
@@ -2075,7 +2018,6 @@
             "Key": "fd2a9cc7-e49e-4338-88b7-203ecd672e77",
             "Value": {
                 "id": "be613732-25f8-42f3-91c8-e04663e833a6",
-<<<<<<< HEAD
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -2088,13 +2030,6 @@
                     "default"
                 ],
                 "resourcePath": "tilesets\/tileset_tree\/tileset_tree.yy",
-=======
-<<<<<<< HEAD
-                "resourcePath": "tilesets\/tileset_tree\/tileset_tree.yy",
-=======
-                "resourcePath": "tilesets\\tileset_tree\\tileset_tree.yy",
->>>>>>> a16654a24c9c42f1ad92ecc878d1df631ed83167
->>>>>>> 67eaf6a13fa3cad322444e77dbd51b0f339537ef
                 "resourceType": "GMTileSet"
             }
         },
