@@ -9,7 +9,8 @@
         "ba0c65dc-5e83-43d3-ae96-023f64bc5efd",
         "7f444295-3bc3-427c-ac64-7b54fb4295ba",
         "b4ea391b-cb42-4df6-953c-c93ffe870e5b",
-        "61fa86a6-1cfd-4bd0-b864-04f1afae0fc6"
+        "61fa86a6-1cfd-4bd0-b864-04f1afae0fc6",
+        "fad6eb66-e2b3-4d4a-8179-d551ea556f18"
     ],
     "filterType": "GMSprite",
     "folderName": "Creature",
