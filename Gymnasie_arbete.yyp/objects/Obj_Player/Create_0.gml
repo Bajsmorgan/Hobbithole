@@ -19,14 +19,14 @@ ObjectType = CollisionType.Friendly;
 Direction = DOWN;
 Action = IDLE;
 //
-View[RIGHT, IDLE] = spr_idle_right;
-View[RIGHT, MOVE] = spr_run_right;
-View[RIGHT, RANGEDATTACK] = spr_attack_right_1;
-View[RIGHT, MELEEATTACK] = spr_attack_right_1;
+View[RIGHT, IDLE] = idle_right;
+View[RIGHT, MOVE] = run_right;
+View[RIGHT, RANGEDATTACK] = attack1_right;
+View[RIGHT, MELEEATTACK] = attack1_right;
 //
 View[UP, IDLE] = spr_idle_up;
-View[UP, MOVE] = spr_run_up;
-View[UP, RANGEDATTACK] = spr_run_up;
+View[UP, MOVE] = run_up;
+View[UP, RANGEDATTACK] = run_up;
 View[UP, MELEEATTACK] = spr_attack_up_1;
 //
 View[LEFT, IDLE] = spr_idle_left;
