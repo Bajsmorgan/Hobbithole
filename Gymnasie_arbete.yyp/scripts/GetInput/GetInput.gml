@@ -5,6 +5,7 @@ yAxis = keyboard_check(vk_down) - keyboard_check(vk_up);
 
 Attack = keyboard_check_pressed(vk_space);
 Dash = keyboard_check_pressed(ord("C"));
+Melee = keyboard_check_pressed(vk_enter);
 
 if (gamepad_is_connected(0))
 {
@@ -14,4 +15,5 @@ if (gamepad_is_connected(0))
 	//
 	Attack = gamepad_button_check_pressed(0, gp_face2);
 	Dash = gamepad_button_check_pressed(0, gp_face1);
+	Melee = gamepad_button_check_pressed(0, gp_face3);
 }

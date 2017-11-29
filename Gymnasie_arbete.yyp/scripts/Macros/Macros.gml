@@ -7,5 +7,6 @@
 #macro IDLE 0
 #macro MOVE 1
 #macro RANGEDATTACK 2
+#macro MELEEATTACK 3
 //Misc
-#macro CELL 64
+#macro CELL 32

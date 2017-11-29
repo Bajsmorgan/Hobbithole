@@ -5,6 +5,11 @@ if (Attack)
 	image_index = 0;
 	State = StateRANGEDATTACK;
 }
+if (Melee)
+{
+	image_index = 0;
+	State = StateMELEEATTACK;
+}
 //
 if (xAxis != 0 || yAxis != 0){
 	Action = MOVE;
@@ -12,7 +17,7 @@ if (xAxis != 0 || yAxis != 0){
 	if (Dash)
 	{
 		State = StateDash;
-		alarm[0] = room_speed/6;
+		alarm[0] = room_speed/4;
 	}
 }else
 	Action = IDLE;

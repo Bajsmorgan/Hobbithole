@@ -7,4 +7,9 @@ switch (Action)
 		State = StateIDLE;
 		CanAttack = true;
 	break;
+	case MELEEATTACK:
+		instance_destroy(Obj_parProjectile);
+		State = StateIDLE;
+		CanAttack = true;
+	break;
 }
