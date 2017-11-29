@@ -130,13 +130,7 @@
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
-<<<<<<< HEAD:Gymnasie_arbete.yyp/sprites/oldspr_run_right/oldspr_run_right.yy
     "width": 32,
     "xorig": 16,
     "yorig": 16
-=======
-    "width": 40,
-    "xorig": 20,
-    "yorig": 20
->>>>>>> 6c081e4288b74993f20af5035719493cf412c3e5:Gymnasie_arbete.yyp/sprites/idle_left/idle_left.yy
 }

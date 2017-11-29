@@ -2,7 +2,7 @@
     "id": "b9f903a3-1b1f-445a-b037-1aa6a45a4a76",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Dasheffect",
+    "name": "dash",
     "For3D": false,
     "HTile": false,
     "VTile": false,
