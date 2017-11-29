@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "0f13a354-a98e-4525-9068-9e7f26cc8262",
+            "Value": {
+                "id": "efdfbedc-0d08-43ef-bd0e-5bc6e7bce740",
+                "resourcePath": "sprites\\throne\\throne.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0f79e3b6-c3af-4145-a5ee-d0c521fe88a5",
             "Value": {
                 "id": "d19ed625-7ead-4276-a85e-3525f42a0f60",
@@ -1271,14 +1279,6 @@
             }
         },
         {
-            "Key": "b18fb14e-ae83-423b-9805-c7aabdec4294",
-            "Value": {
-                "id": "c5ccdf9b-babd-4bed-85be-78f8e4bb3cf4",
-                "resourcePath": "sprites\/spr_gui_player\/spr_gui_player.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "b1bdc1a5-c256-4370-b8a0-4c03801a62e1",
             "Value": {
                 "id": "d2e53b9e-a353-44f1-bc0d-aa7114284161",
@@ -1812,6 +1812,14 @@
                 "id": "e5303d86-18b0-4d47-9ed3-ceb71caaeab8",
                 "resourcePath": "views\/f50e2a31-ae97-4c9b-861a-7092a5bbf17f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f6611b13-7436-45da-a965-03b6f6c36a7f",
+            "Value": {
+                "id": "026506e9-636f-4084-b559-47e98fe9c31a",
+                "resourcePath": "sprites\\guihealth\\guihealth.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
