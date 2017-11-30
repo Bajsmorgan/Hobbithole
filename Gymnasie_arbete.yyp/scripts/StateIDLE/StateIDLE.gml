@@ -40,10 +40,8 @@ switch(face)
 	case 3:
 		Direction = DOWN;
 	break;
-		
 }
-
-
+///
 xAxis = lengthdir_x(_length, _direction);
 yAxis = lengthdir_y(_length, _direction);
 
