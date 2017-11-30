@@ -1,4 +1,4 @@
 
-face = round(_direction / 90);
-if(face == 4)
+face = round(_direction / 45);
+if(face == 8)
 	face = 0;

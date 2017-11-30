@@ -2,7 +2,7 @@
 
 xAxis = 0; //left / right movement
 yAxis = 0; //up / down movement
-Speed = 4; //How fast you move
+Speed = 2.5; //How fast you move
 ///
 State = StateIDLE;
 ///
@@ -26,16 +26,16 @@ View[RIGHT, MELEEATTACK] = spr_attack_right_1;
 //
 View[UP, IDLE] = spr_idle_right;
 View[UP, MOVE] = spr_run_up;
-View[UP, RANGEDATTACK] = spr_run_up;
-View[UP, MELEEATTACK] = spr_attack_up_1;
+View[UP, RANGEDATTACK] = spr_attack_right_2;
+View[UP, MELEEATTACK] = spr_attack_right_2;
 //
 View[LEFT, IDLE] = spr_idle_left;
 View[LEFT, MOVE] = spr_run_left;
-View[LEFT, RANGEDATTACK] = spr_run_left;
+View[LEFT, RANGEDATTACK] = spr_attack_left_1;
 View[LEFT, MELEEATTACK] = spr_attack_left_1;
 //
 View[DOWN, IDLE] = spr_idle_left;
 View[DOWN, MOVE] = spr_run_down;
-View[DOWN, RANGEDATTACK] = spr_run_down;
-View[DOWN, MELEEATTACK] = spr_attack_down1;
+View[DOWN, RANGEDATTACK] = spr_attack_left_1;
+View[DOWN, MELEEATTACK] = spr_attack_left_1;
 //

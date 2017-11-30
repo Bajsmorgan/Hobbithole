@@ -29,17 +29,39 @@ _length = Speed * (xAxis != 0 || yAxis != 0);
 switch(face)
 {
 	case 0:
+	case 7:
 		Direction = RIGHT;
 	break;
 	case 1:
+	case 2:
 		Direction = UP;
 	break;
-	case 2:
+	case 3:
+	case 4:
 		Direction = LEFT;
 	break;
-	case 3:
+	case 5:
+	case 6:
 		Direction = DOWN;
 	break;
+	
+}
+if(IDLE){
+	switch(face)
+	{
+		case 1:
+		case 0:
+		case 7:
+		case 6:
+			Direction = RIGHT;
+		break;
+		case 2:
+		case 3:
+		case 4:
+		case 5:
+			Direction = LEFT;
+		break;
+	}
 }
 ///
 xAxis = lengthdir_x(_length, _direction);

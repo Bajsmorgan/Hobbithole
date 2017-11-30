@@ -19,6 +19,6 @@ switch(Direction)
 	break;
 	case DOWN:
 		xOffset = 0;
-		yOffset = CELL-4;
+		yOffset = CELL;
 	break;
 }		
