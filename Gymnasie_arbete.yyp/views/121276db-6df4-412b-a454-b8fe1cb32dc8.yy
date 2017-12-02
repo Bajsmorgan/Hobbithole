@@ -8,9 +8,7 @@
         "b760ac8f-f9ba-49b6-9469-cd77f91fe26e",
         "5990dfd5-aa0f-4ade-9b4b-8c3e45caad90",
         "930c7741-4167-45ea-bcee-379962be6989",
-        "dd6ba2d0-e443-465d-8720-77169c8fa45b",
-        "84d67ccc-6439-4ad4-b675-ab0576fb07a3",
-        "32b0cb66-7065-402f-9464-d40e03847c92"
+        "dd6ba2d0-e443-465d-8720-77169c8fa45b"
     ],
     "filterType": "GMTileSet",
     "folderName": "Docks",
