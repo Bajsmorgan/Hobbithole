@@ -2,7 +2,7 @@
     "id": "493ae5e5-90f2-470e-81d3-2e742ac907cf",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "corruption_flow1",
+    "name": "corruption_flow",
     "For3D": false,
     "HTile": false,
     "VTile": false,

@@ -514,7 +514,7 @@
             "Key": "493ae5e5-90f2-470e-81d3-2e742ac907cf",
             "Value": {
                 "id": "a4ec0708-4f79-4a73-b1a4-6eb5e3466d9d",
-                "resourcePath": "sprites\/corruption_flow1\/corruption_flow1.yy",
+                "resourcePath": "sprites\\corruption_flow\\corruption_flow.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -959,22 +959,6 @@
             }
         },
         {
-            "Key": "7e36d289-3e38-4b81-ab36-f77de9d0ac1d",
-            "Value": {
-                "id": "9ae775ad-b4f5-4e22-8c75-2f883e76dc38",
-                "resourcePath": "sprites\/corruption_flow2\/corruption_flow2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7e7ad41e-ee69-40b7-ac36-9b0903842d3c",
-            "Value": {
-                "id": "19bed7a6-9498-417a-966a-202174c7fab6",
-                "resourcePath": "sprites\/corruption_flow4\/corruption_flow4.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7e866101-4a96-4ac5-93b3-c41e63fa50e5",
             "Value": {
                 "id": "fcb62321-ae6d-4106-b6d7-87c7ca20e480",
@@ -1059,14 +1043,6 @@
             "Value": {
                 "id": "ef0c3a68-25c1-4bc2-9e95-183611872859",
                 "resourcePath": "sprites\/worm_headexplosion\/worm_headexplosion.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "86e07263-be17-4f3b-b94c-16cb168368c8",
-            "Value": {
-                "id": "26e55472-c1f9-450b-b06c-2f7a02e4e781",
-                "resourcePath": "sprites\/corruption_flow3\/corruption_flow3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1811,14 +1787,6 @@
             "Value": {
                 "id": "5f08e042-7438-40f2-abdb-ea0813078609",
                 "resourcePath": "sprites\/spr_attack_up_2\/spr_attack_up_2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "dd4b1957-67a1-4406-868e-ee3df74d6105",
-            "Value": {
-                "id": "0a5bc9df-f712-4d0c-8d8d-2433b9de4802",
-                "resourcePath": "sprites\/corruption_flow5\/corruption_flow5.yy",
                 "resourceType": "GMSprite"
             }
         },
