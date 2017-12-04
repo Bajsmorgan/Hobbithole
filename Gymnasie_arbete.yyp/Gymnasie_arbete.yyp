@@ -1111,6 +1111,14 @@
             }
         },
         {
+            "Key": "943628a2-642f-4f9a-ada9-b2325af2935c",
+            "Value": {
+                "id": "4d1face0-63c4-48e5-b99e-a14a7627f352",
+                "resourcePath": "sprites\\spr_run_left\\spr_run_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "95e9ea58-6d06-4504-b3e8-5df1b3e22a7c",
             "Value": {
                 "id": "c3e1c334-e1ad-4831-8367-ed45a1e62f03",
@@ -1529,8 +1537,8 @@
         {
             "Key": "bee5d3d1-a36e-4ca8-8ac2-03342167b17f",
             "Value": {
-                "id": "e20c98c9-36b4-473e-85c3-d6d79849bee3",
-                "resourcePath": "scripts\/StateDash\/StateDash.yy",
+                "id": "1d1cdfc1-babb-4a1d-bda1-ffde07192298",
+                "resourcePath": "scripts\\StateDash\\StateDash.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -2049,8 +2057,8 @@
         "a5e3731e-2d5d-452e-8c3f-d8059751ccb4",
         "49c6e9c6-0799-440e-90bb-b90935040772",
         "06134edb-6d47-4dab-8f6e-ad9cf29c6892",
-        "6dd14b8f-b460-41f1-bdd0-011555c544f3",
         "bee5d3d1-a36e-4ca8-8ac2-03342167b17f",
+        "6dd14b8f-b460-41f1-bdd0-011555c544f3",
         "eee6976e-7a79-42ef-b64d-693fdda6dcaa"
     ],
     "tutorial": ""
