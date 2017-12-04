@@ -4,7 +4,6 @@
     "mvc": "1.1",
     "name": "f3d273ed-d858-4f98-89e4-070abe15fd79",
     "children": [
-<<<<<<< HEAD
         "369ff26e-cea2-4779-8246-6d939ee9c572",
         "6425535b-410f-44b4-99b1-346b5ff383c4",
         "53f551d6-cfb4-4a18-bf0a-125979ed72a7",
@@ -26,9 +25,6 @@
         "6545cbae-a890-40d1-893b-159c64063f63",
         "992b3787-c4b7-48a3-ac35-0d7dd094b3a5",
         "ab17d7aa-a31c-49e8-aae7-0ab34cc0b9de"
-=======
-        
->>>>>>> parent of 61ea727... Merge branch????
     ],
     "filterType": "GMTileSet",
     "folderName": "tilesets",
