@@ -66,7 +66,11 @@
             "Key": "06b6e27b-ff89-4352-996e-8359a071df94",
             "Value": {
                 "id": "fcf9ede3-97a0-4b83-9950-3e81a8e41820",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/oldspr_idle_left\/oldspr_idle_left.yy",
+=======
+                "resourcePath": "sprites\\oldspr_idle_left\\oldspr_idle_left.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -74,7 +78,19 @@
             "Key": "07ea51bd-c15c-4c1e-a90f-01d38cd91acb",
             "Value": {
                 "id": "192873a1-7131-4579-ab39-e853c9a3554d",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/worm_idle\/worm_idle.yy",
+=======
+                "resourcePath": "sprites\\worm_idle\\worm_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0886e7a4-d922-448a-8f5a-e314cb486d34",
+            "Value": {
+                "id": "58cd3056-fd3f-45a8-a9d0-ba59826ad8fa",
+                "resourcePath": "sprites\\tree2\\tree2.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -82,7 +98,11 @@
             "Key": "08d772db-4780-4108-ba08-d82044ac8184",
             "Value": {
                 "id": "952ee5b4-0974-4597-9ed0-a567d01e0df7",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/lancer_prepare\/lancer_prepare.yy",
+=======
+                "resourcePath": "sprites\\lancer_prepare\\lancer_prepare.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -90,7 +110,11 @@
             "Key": "08eae7d6-c44f-42e9-846f-49d3c66a9956",
             "Value": {
                 "id": "c3b0b844-3db5-4e26-b945-4fec504ea6a9",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/planks\/planks.yy",
+=======
+                "resourcePath": "sprites\\planks\\planks.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -98,6 +122,7 @@
             "Key": "09a2ca9e-f3be-4cb6-a493-9a360cef666b",
             "Value": {
                 "id": "37105ca1-05db-46b4-8dc1-e06adcc2fe56",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/dock\/dock.yy",
                 "resourceType": "GMSprite"
             }
@@ -116,13 +141,21 @@
                 "id": "f7651a84-9f78-448f-8a62-2bd3f9824de3",
                 "resourcePath": "tilesets\/tileset_corruptionflow5\/tileset_corruptionflow5.yy",
                 "resourceType": "GMTileSet"
+=======
+                "resourcePath": "sprites\\dock\\dock.yy",
+                "resourceType": "GMSprite"
+>>>>>>> parent of 61ea727... Merge branch????
             }
         },
         {
             "Key": "0bf09203-e1ca-4e0b-8869-b4b4e363f968",
             "Value": {
                 "id": "75af694f-86dd-4558-8677-0ac034ed7e13",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/corruptionbolt\/corruptionbolt.yy",
+=======
+                "resourcePath": "sprites\\corruptionbolt\\corruptionbolt.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -130,7 +163,11 @@
             "Key": "0da25fdd-e277-4150-9d65-5463ca18d5b6",
             "Value": {
                 "id": "4961a73c-30f7-4dd7-8283-74cbe8a5c1e1",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/spr_attack_right_2\/spr_attack_right_2.yy",
+=======
+                "resourcePath": "sprites\\spr_attack_right_2\\spr_attack_right_2.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -138,7 +175,11 @@
             "Key": "0efbce64-c98b-49bd-a328-5954e407774f",
             "Value": {
                 "id": "fc512169-fc5c-42b4-9683-18f34c932231",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/boss_teleout\/boss_teleout.yy",
+=======
+                "resourcePath": "sprites\\boss_teleout\\boss_teleout.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -146,7 +187,11 @@
             "Key": "0f13a354-a98e-4525-9068-9e7f26cc8262",
             "Value": {
                 "id": "efdfbedc-0d08-43ef-bd0e-5bc6e7bce740",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/throne\/throne.yy",
+=======
+                "resourcePath": "sprites\\throne\\throne.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -154,7 +199,11 @@
             "Key": "0f79e3b6-c3af-4145-a5ee-d0c521fe88a5",
             "Value": {
                 "id": "d19ed625-7ead-4276-a85e-3525f42a0f60",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/bomber_reload\/bomber_reload.yy",
+=======
+                "resourcePath": "sprites\\bomber_reload\\bomber_reload.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -162,6 +211,7 @@
             "Key": "1145f7bd-c76f-4aed-9bfb-c17dbee971b7",
             "Value": {
                 "id": "f8b39853-94a8-455b-ae54-97725fe40983",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/scarab\/scarab.yy",
                 "resourceType": "GMSprite"
             }
@@ -172,13 +222,21 @@
                 "id": "c59b4e72-dfa3-4d73-9a1c-2c53157be2cb",
                 "resourcePath": "views\/121276db-6df4-412b-a454-b8fe1cb32dc8.yy",
                 "resourceType": "GMFolder"
+=======
+                "resourcePath": "sprites\\scarab\\scarab.yy",
+                "resourceType": "GMSprite"
+>>>>>>> parent of 61ea727... Merge branch????
             }
         },
         {
             "Key": "12b83d36-e9f2-4e9a-8170-fef0ab53fda8",
             "Value": {
                 "id": "90741ca1-6679-4cc4-871e-7ee1c4537256",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/boss_idle\/boss_idle.yy",
+=======
+                "resourcePath": "sprites\\boss_idle\\boss_idle.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -194,7 +252,19 @@
             "Key": "15da7f01-2a2f-43ed-8896-cbda1a5bee41",
             "Value": {
                 "id": "9092407f-cb75-4042-b3e2-73f2a800094a",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/button2\/button2.yy",
+=======
+                "resourcePath": "sprites\\button2\\button2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "16eaa169-42bd-4571-9ece-de6a0d6d27d3",
+            "Value": {
+                "id": "4e6dc96f-bc64-49fe-b40a-cd6bba01423f",
+                "resourcePath": "sprites\\tent4\\tent4.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -202,7 +272,11 @@
             "Key": "1806b1db-6dbb-4d28-83c4-2d2a044e1204",
             "Value": {
                 "id": "62c30342-3d09-4acc-9b4b-3b7ec364f39b",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/worm_deathhead\/worm_deathhead.yy",
+=======
+                "resourcePath": "sprites\\worm_deathhead\\worm_deathhead.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -215,6 +289,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "1912769e-4601-4b69-b137-0cb6be48da1f",
             "Value": {
                 "id": "5a61b649-aea5-46f9-a195-d334221183b4",
@@ -235,6 +310,12 @@
             "Value": {
                 "id": "c6309abb-5cf3-412d-9f3d-e0e6ab144eb2",
                 "resourcePath": "sprites\\torches\\torches.yy",
+=======
+            "Key": "19b72642-bd98-45aa-b0cd-ad33e4cc6900",
+            "Value": {
+                "id": "c6309abb-5cf3-412d-9f3d-e0e6ab144eb2",
+                "resourcePath": "sprites\\torch1\\torch1.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -242,7 +323,11 @@
             "Key": "1b6026b6-21db-4fdf-a851-5295bf887788",
             "Value": {
                 "id": "adc2b2c3-b5db-46e7-8924-7ca3b9827410",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/spr_attack_right_1\/spr_attack_right_1.yy",
+=======
+                "resourcePath": "sprites\\spr_attack_right_1\\spr_attack_right_1.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -250,15 +335,42 @@
             "Key": "1be614db-e060-4918-bd09-a6c5396d8c46",
             "Value": {
                 "id": "d443a661-e2d4-4842-abc4-33479c0d8033",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/blink\/blink.yy",
+=======
+                "resourcePath": "sprites\\blink\\blink.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+<<<<<<< HEAD
+            "Key": "21ac9976-71d5-47fb-b2c3-4e5769dca40a",
+            "Value": {
+                "id": "dde9a773-60cb-4eaf-9edc-a7e03e6c6a4d",
+                "resourcePath": "sprites\/earthshatter\/earthshatter.yy",
+=======
+            "Key": "1fb17573-6657-4514-bde4-e331ff966e89",
+            "Value": {
+                "id": "8c12c4e1-300f-4936-b6d2-d5cdfa946dab",
+                "resourcePath": "rooms\/room_wood2\/room_wood2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "20361b09-ddd6-498c-a799-b794794ac890",
+            "Value": {
+                "id": "4e76911a-fc82-45e8-8829-ea783b3a7de3",
+                "resourcePath": "rooms\/room_wood1\/room_wood1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
             "Key": "21ac9976-71d5-47fb-b2c3-4e5769dca40a",
             "Value": {
                 "id": "dde9a773-60cb-4eaf-9edc-a7e03e6c6a4d",
-                "resourcePath": "sprites\/earthshatter\/earthshatter.yy",
+                "resourcePath": "sprites\\earthshatter\\earthshatter.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -266,7 +378,19 @@
             "Key": "23e3ba88-4df8-4f6e-ac5a-dc562348319e",
             "Value": {
                 "id": "480d22aa-aa6b-4c56-972f-cfc0238c4e15",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/flag3\/flag3.yy",
+=======
+                "resourcePath": "sprites\\flag3\\flag3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "24699a6f-f1ea-4515-8004-462bb12c617c",
+            "Value": {
+                "id": "87fa2900-84e1-44bf-b958-5457d8127607",
+                "resourcePath": "sprites\\tent1\\tent1.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -274,7 +398,11 @@
             "Key": "246c2202-071f-48d5-9025-4a596f6bc8fd",
             "Value": {
                 "id": "2a1204df-c48a-418c-b92c-da4de335b6f2",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/ritual_end\/ritual_end.yy",
+=======
+                "resourcePath": "sprites\\ritual_end\\ritual_end.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -282,7 +410,11 @@
             "Key": "24a752b3-e8ec-42ac-a096-82bfe7fff25f",
             "Value": {
                 "id": "c9fd11b0-5ade-43e7-95c3-a01d5f5992f0",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/slime_move\/slime_move.yy",
+=======
+                "resourcePath": "sprites\\slime_move\\slime_move.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -306,11 +438,16 @@
             "Key": "26d92aa5-6ed9-4c42-a382-4d03d08d9ce5",
             "Value": {
                 "id": "64916230-ab1e-407b-9a60-ec55f73fd83f",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/worm_attack\/worm_attack.yy",
+=======
+                "resourcePath": "sprites\\worm_attack\\worm_attack.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
         {
+<<<<<<< HEAD
             "Key": "29fb2e43-d01c-4ab9-a486-b350c726931c",
             "Value": {
                 "id": "faf5912f-29fa-4dd5-85cb-02c593bb488c",
@@ -323,6 +460,12 @@
             "Value": {
                 "id": "b42fab33-b13d-4402-a533-9311fb9d0b61",
                 "resourcePath": "sprites\/boss_summon\/boss_summon.yy",
+=======
+            "Key": "2b26f7d9-533b-45ef-8e04-91c54a2c9e72",
+            "Value": {
+                "id": "b42fab33-b13d-4402-a533-9311fb9d0b61",
+                "resourcePath": "sprites\\boss_summon\\boss_summon.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -335,6 +478,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "2b80c957-71e6-4c02-981d-65072a9cf025",
             "Value": {
                 "id": "791fe520-6bb0-469d-b054-074029dfee80",
@@ -343,6 +487,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of 61ea727... Merge branch????
             "Key": "2da2b3cf-d866-4502-bdb1-168be1eeee96",
             "Value": {
                 "id": "610719b2-0e6a-4698-9e06-62b5260e6a89",
@@ -354,7 +500,11 @@
             "Key": "2da49c3f-79dd-4cb8-bb61-684d7ea173f7",
             "Value": {
                 "id": "923ecd2f-a8a5-4728-8394-2ab96805c2c4",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/oldspr_attack_right_2\/oldspr_attack_right_2.yy",
+=======
+                "resourcePath": "sprites\\oldspr_attack_right_2\\oldspr_attack_right_2.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -367,6 +517,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "32b0cb66-7065-402f-9464-d40e03847c92",
             "Value": {
                 "id": "b7d6c2b0-595c-4af7-9720-dcbec8585af5",
@@ -375,6 +526,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of 61ea727... Merge branch????
             "Key": "32f9fc79-dd77-410a-a461-411e138a6784",
             "Value": {
                 "id": "e93307c0-8da8-4a0b-bbc7-20ca486067d4",
@@ -394,7 +547,11 @@
             "Key": "35b0d88d-471d-4c3e-9121-4249c8602700",
             "Value": {
                 "id": "a0b04c9a-6145-4038-887e-73a34976f1f2",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/blue\/blue.yy",
+=======
+                "resourcePath": "sprites\\blue\\blue.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -402,6 +559,7 @@
             "Key": "3691d7c4-9bb6-4c5c-a6dc-a2730891507d",
             "Value": {
                 "id": "5c82da8f-c630-4fb9-831b-063e94d313f7",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/oldspr_attack_left_1\/oldspr_attack_left_1.yy",
                 "resourceType": "GMSprite"
             }
@@ -412,6 +570,10 @@
                 "id": "f6816643-f9d5-4162-a943-ad8aec710f00",
                 "resourcePath": "views\/369ff26e-cea2-4779-8246-6d939ee9c572.yy",
                 "resourceType": "GMFolder"
+=======
+                "resourcePath": "sprites\\oldspr_attack_left_1\\oldspr_attack_left_1.yy",
+                "resourceType": "GMSprite"
+>>>>>>> parent of 61ea727... Merge branch????
             }
         },
         {
@@ -423,10 +585,22 @@
             }
         },
         {
+            "Key": "37fa319b-cd72-436c-ad0d-485d0bead8cd",
+            "Value": {
+                "id": "4229fbd5-f1ac-4331-8df4-de0a8960282e",
+                "resourcePath": "sprites\\book1\\book1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "396230c3-2ca6-4c8c-babc-ff22c6483853",
             "Value": {
                 "id": "e538211e-0604-4581-9aaf-5d67c6fbd9d7",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/oldspr_run_right\/oldspr_run_right.yy",
+=======
+                "resourcePath": "sprites\\oldspr_run_right\\oldspr_run_right.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -434,7 +608,11 @@
             "Key": "3ebc8dff-5b2a-4948-9e4c-e962d51c5948",
             "Value": {
                 "id": "db8512b1-7014-49d6-95fc-bd800cef976a",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/flag1\/flag1.yy",
+=======
+                "resourcePath": "sprites\\flag1\\flag1.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -442,6 +620,7 @@
             "Key": "3f462433-770a-4cb1-b9ea-ae9824a23c45",
             "Value": {
                 "id": "1a2daaf6-4dcd-4a18-9de5-7f1d0c4752e4",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/station_attack\/station_attack.yy",
                 "resourceType": "GMSprite"
             }
@@ -451,6 +630,9 @@
             "Value": {
                 "id": "9048d276-2676-42fe-a022-7844023de202",
                 "resourcePath": "sprites\/ritual\/ritual.yy",
+=======
+                "resourcePath": "sprites\\station_attack\\station_attack.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -458,7 +640,11 @@
             "Key": "42b5eacb-7a7d-49a0-a498-be510ee99d2e",
             "Value": {
                 "id": "2a3e025f-e223-4100-9089-24dfae9d1c24",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/worm_deathbody\/worm_deathbody.yy",
+=======
+                "resourcePath": "sprites\\worm_deathbody\\worm_deathbody.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -466,7 +652,11 @@
             "Key": "431d77b5-64ed-4555-8ff2-08512362bd29",
             "Value": {
                 "id": "2e5a86f2-5c6f-46df-b47e-46d2b0dc3fb9",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/arrowhit\/arrowhit.yy",
+=======
+                "resourcePath": "sprites\\arrowhit\\arrowhit.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -482,7 +672,25 @@
             "Key": "44bbfce5-9675-417b-a6e0-d7a7f4584a31",
             "Value": {
                 "id": "2a0c7767-43f1-41e1-b7af-99c8b6aced71",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/gateopen\/gateopen.yy",
+=======
+                "resourcePath": "sprites\\gateopen\\gateopen.yy",
+>>>>>>> parent of 61ea727... Merge branch????
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+<<<<<<< HEAD
+            "Key": "452f5c74-a16d-47ec-83c1-6429f5c8667f",
+            "Value": {
+                "id": "87984994-a801-4752-9971-b9734641c936",
+                "resourcePath": "sprites\/lancer_death\/lancer_death.yy",
+=======
+            "Key": "4501247f-20e5-4ed0-9d5a-1b3b17bb30c8",
+            "Value": {
+                "id": "3e21659c-8070-4aac-b4b1-7fe870836202",
+                "resourcePath": "sprites\\torch2\\torch2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -490,7 +698,16 @@
             "Key": "452f5c74-a16d-47ec-83c1-6429f5c8667f",
             "Value": {
                 "id": "87984994-a801-4752-9971-b9734641c936",
-                "resourcePath": "sprites\/lancer_death\/lancer_death.yy",
+                "resourcePath": "sprites\\lancer_death\\lancer_death.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "46296fcf-c68f-42d7-9b86-7c4407052fdb",
+            "Value": {
+                "id": "cb320b95-2aa2-4765-895c-c7626794f872",
+                "resourcePath": "sprites\\corruption2\\corruption2.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -498,7 +715,11 @@
             "Key": "46a1b368-9151-449b-ad86-b685910b7c59",
             "Value": {
                 "id": "c6ffe5ed-ff28-4b59-9348-eca835de4ce1",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/foulaftereffect\/foulaftereffect.yy",
+=======
+                "resourcePath": "sprites\\foulaftereffect\\foulaftereffect.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -506,7 +727,19 @@
             "Key": "486469cd-a5d2-4c06-b982-6c733ede4c01",
             "Value": {
                 "id": "e8789145-6d1b-4898-8f9e-75aa0974747c",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/station_idle\/station_idle.yy",
+=======
+                "resourcePath": "sprites\\station_idle\\station_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "488c95c7-8d64-4b70-8cdf-f4ea442dd30a",
+            "Value": {
+                "id": "f2d43d2c-2dc9-475f-bdd4-7eb570ec8af4",
+                "resourcePath": "sprites\\treetop2\\treetop2.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -514,7 +747,11 @@
             "Key": "493ae5e5-90f2-470e-81d3-2e742ac907cf",
             "Value": {
                 "id": "a4ec0708-4f79-4a73-b1a4-6eb5e3466d9d",
+<<<<<<< HEAD
                 "resourcePath": "sprites\\corruption_flow\\corruption_flow.yy",
+=======
+                "resourcePath": "sprites\\corruption_flow1\\corruption_flow1.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -522,7 +759,11 @@
             "Key": "497bf29d-5de7-45d8-8577-b11b6a771dd5",
             "Value": {
                 "id": "cdf85144-b9ac-4830-b659-92490012a145",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/oldspr_run_up\/oldspr_run_up.yy",
+=======
+                "resourcePath": "sprites\\oldspr_run_up\\oldspr_run_up.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -538,7 +779,11 @@
             "Key": "49fbbf4f-2835-464a-a1a1-fbde1fb62e0a",
             "Value": {
                 "id": "25be1ed0-f377-4681-92bb-f87caea52e37",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/extra\/extra.yy",
+=======
+                "resourcePath": "sprites\\extra\\extra.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -562,7 +807,11 @@
             "Key": "4ca9b0ad-5d2d-4b91-aa7d-9e557994849e",
             "Value": {
                 "id": "2583af43-d62c-4c5d-b97a-6f33c9f30516",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/spr_run_right\/spr_run_right.yy",
+=======
+                "resourcePath": "sprites\\spr_run_right\\spr_run_right.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -570,7 +819,11 @@
             "Key": "4e40c377-0920-44f6-b40a-2debfab51b6e",
             "Value": {
                 "id": "43916e28-a8cf-4c00-8068-0f99875fbd55",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/corruption_crystal\/corruption_crystal.yy",
+=======
+                "resourcePath": "sprites\\corruption_crystal\\corruption_crystal.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -578,7 +831,11 @@
             "Key": "4f4831f4-011b-42f9-a3a3-a58126907dc2",
             "Value": {
                 "id": "4330042e-cea2-421a-b05f-bdc9350e8384",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/mine\/mine.yy",
+=======
+                "resourcePath": "sprites\\mine\\mine.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -587,6 +844,14 @@
             "Value": {
                 "id": "94425511-2305-43fc-a93d-13d79313b227",
                 "resourcePath": "sprites\/spr_creature_slime\/spr_creature_slime.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "516b3a13-905d-49ec-95d7-c5162776b019",
+            "Value": {
+                "id": "675ff1de-06c1-4b70-a5a5-017c6e81e7c2",
+                "resourcePath": "sprites\\book9\\book9.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -607,8 +872,9 @@
             }
         },
         {
-            "Key": "53f551d6-cfb4-4a18-bf0a-125979ed72a7",
+            "Key": "54078fd1-2785-43ad-bb53-cd10efa0b371",
             "Value": {
+<<<<<<< HEAD
                 "id": "dcf58aab-cb62-402e-a33e-acfc40778583",
                 "resourcePath": "views\/53f551d6-cfb4-4a18-bf0a-125979ed72a7.yy",
                 "resourceType": "GMFolder"
@@ -620,13 +886,23 @@
                 "id": "7229f043-6c66-4759-a72c-8cf1b9837d66",
                 "resourcePath": "tilesets\/tileset_cliffearth\/tileset_cliffearth.yy",
                 "resourceType": "GMTileSet"
+=======
+                "id": "e06942ed-459a-469d-8d32-fb3f264d5bd2",
+                "resourcePath": "sprites\\tent2\\tent2.yy",
+                "resourceType": "GMSprite"
+>>>>>>> parent of 61ea727... Merge branch????
             }
         },
         {
-            "Key": "55c2f258-27ef-4622-9f90-23dd0681d877",
+            "Key": "560cb2ff-cbcb-4f14-82a5-c219c5a2f9d6",
             "Value": {
+<<<<<<< HEAD
                 "id": "0b01de46-8664-482e-835a-abb4b1400a2e",
                 "resourcePath": "sprites\/trees\/trees.yy",
+=======
+                "id": "56233a1d-cdf1-4b61-a624-974354ac2f07",
+                "resourcePath": "sprites\\book3\\book3.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -634,7 +910,11 @@
             "Key": "562e0b53-201a-4848-9c67-4dd1cbeba635",
             "Value": {
                 "id": "b714bc50-8b13-468a-bbad-99f2ea16275f",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/spr_run_up\/spr_run_up.yy",
+=======
+                "resourcePath": "sprites\\spr_run_up\\spr_run_up.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -642,7 +922,11 @@
             "Key": "5702ab57-24e7-49d4-885b-c0304bcd6e05",
             "Value": {
                 "id": "3e589ba2-8083-4487-8393-0ac7de829b1c",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/box\/box.yy",
+=======
+                "resourcePath": "sprites\\box\\box.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -658,11 +942,16 @@
             "Key": "5989e448-9ee4-4d8d-aad0-60c501d5bb15",
             "Value": {
                 "id": "373fed17-1f66-4fc1-8fd1-734282b608c3",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/mineexplosion\/mineexplosion.yy",
+=======
+                "resourcePath": "sprites\\mineexplosion\\mineexplosion.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
         {
+<<<<<<< HEAD
             "Key": "5990dfd5-aa0f-4ade-9b4b-8c3e45caad90",
             "Value": {
                 "id": "4df28ac1-2845-4bcf-b389-687d7731d6cd",
@@ -675,34 +964,58 @@
             "Value": {
                 "id": "f41581ee-0998-42a4-b35d-e7755c107301",
                 "resourcePath": "sprites\/bomber_attack\/bomber_attack.yy",
+=======
+            "Key": "5ca8bbab-97ad-478a-a8d4-edca5f6e2ee7",
+            "Value": {
+                "id": "f41581ee-0998-42a4-b35d-e7755c107301",
+                "resourcePath": "sprites\\bomber_attack\\bomber_attack.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5f4df0fe-e2eb-4849-ba48-8d1102db8734",
+            "Value": {
+<<<<<<< HEAD
+                "id": "51a21598-0b09-483a-b821-07a8f4e5602f",
+                "resourcePath": "views\/5fa3ce24-bfbc-4c1d-9d5d-872118880792.yy",
+                "resourceType": "GMFolder"
+=======
+                "id": "6797c820-7b96-4ce0-b47f-e726a61aaf80",
+                "resourcePath": "sprites\\tree3\\tree3.yy",
+                "resourceType": "GMSprite"
+>>>>>>> parent of 61ea727... Merge branch????
+            }
+        },
+        {
+            "Key": "5f61c90c-88f6-46d2-841d-3db2449da0c1",
+            "Value": {
+<<<<<<< HEAD
+                "id": "fabc8cca-49f3-48ea-b465-70cb86941722",
+                "resourcePath": "tilesets\/tileset_rocks\/tileset_rocks.yy",
+                "resourceType": "GMTileSet"
+=======
+                "id": "4355a98e-ed79-4834-b057-f94731913a5e",
+                "resourcePath": "sprites\\book6\\book6.yy",
+                "resourceType": "GMSprite"
+>>>>>>> parent of 61ea727... Merge branch????
             }
         },
         {
             "Key": "5fa3ce24-bfbc-4c1d-9d5d-872118880792",
             "Value": {
-                "id": "51a21598-0b09-483a-b821-07a8f4e5602f",
-                "resourcePath": "views\/5fa3ce24-bfbc-4c1d-9d5d-872118880792.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "5fcbea07-46f3-4bcb-9526-3e053e7540c5",
-            "Value": {
-                "id": "fabc8cca-49f3-48ea-b465-70cb86941722",
-                "resourcePath": "tilesets\/tileset_rocks\/tileset_rocks.yy",
-                "resourceType": "GMTileSet"
-            }
-        },
-        {
-            "Key": "61fa86a6-1cfd-4bd0-b864-04f1afae0fc6",
-            "Value": {
+<<<<<<< HEAD
                 "id": "438554db-c783-416f-ac73-6a2b7fdbce91",
                 "resourcePath": "views\/61fa86a6-1cfd-4bd0-b864-04f1afae0fc6.yy",
+=======
+                "id": "51a21598-0b09-483a-b821-07a8f4e5602f",
+                "resourcePath": "views\/5fa3ce24-bfbc-4c1d-9d5d-872118880792.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMFolder"
             }
         },
         {
+<<<<<<< HEAD
             "Key": "62f1fd7c-8b49-4a03-8238-0b16b4481f94",
             "Value": {
                 "id": "ed371936-a765-4db6-be78-64309ea4b045",
@@ -715,6 +1028,12 @@
             "Value": {
                 "id": "24f1d6d9-9e41-4fd6-b594-a1af4814c90e",
                 "resourcePath": "views\/6425535b-410f-44b4-99b1-346b5ff383c4.yy",
+=======
+            "Key": "61fa86a6-1cfd-4bd0-b864-04f1afae0fc6",
+            "Value": {
+                "id": "438554db-c783-416f-ac73-6a2b7fdbce91",
+                "resourcePath": "views\\61fa86a6-1cfd-4bd0-b864-04f1afae0fc6.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMFolder"
             }
         },
@@ -730,7 +1049,11 @@
             "Key": "64e92ea7-4e26-4a4a-8fb8-2ad1e2cd9e08",
             "Value": {
                 "id": "753e2796-f15b-4884-a50e-ef010cf8b4dc",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/spr_idle_right\/spr_idle_right.yy",
+=======
+                "resourcePath": "sprites\\spr_idle_right\\spr_idle_right.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -743,18 +1066,29 @@
             }
         },
         {
-            "Key": "6545cbae-a890-40d1-893b-159c64063f63",
+            "Key": "66c72bcd-5e77-4640-92da-b6d8ae45ac23",
             "Value": {
+<<<<<<< HEAD
                 "id": "ee765c00-d5aa-4821-b8f2-877d1dc1c297",
                 "resourcePath": "tilesets\/tileset_flag3\/tileset_flag3.yy",
                 "resourceType": "GMTileSet"
+=======
+                "id": "5dd21ccc-9286-4ba6-a408-34689714cc88",
+                "resourcePath": "sprites\\spr_idle_left\\spr_idle_left.yy",
+                "resourceType": "GMSprite"
+>>>>>>> parent of 61ea727... Merge branch????
             }
         },
         {
-            "Key": "66c72bcd-5e77-4640-92da-b6d8ae45ac23",
+            "Key": "6a0cc44a-ab2e-41a0-8316-d9d034d1afed",
             "Value": {
+<<<<<<< HEAD
                 "id": "5dd21ccc-9286-4ba6-a408-34689714cc88",
                 "resourcePath": "sprites\/spr_idle_left\/spr_idle_left.yy",
+=======
+                "id": "1160c488-63a5-4249-82fc-e41354cdfa17",
+                "resourcePath": "sprites\\tent5\\tent5.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -762,7 +1096,19 @@
             "Key": "6bc592c7-ed39-4164-82b5-7e74ca44fa25",
             "Value": {
                 "id": "4b1a892c-0323-4064-bbf5-5e030fdc1b21",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/dead\/dead.yy",
+=======
+                "resourcePath": "sprites\\dead\\dead.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6bf6d979-16bd-4b3c-af61-9627915ccb89",
+            "Value": {
+                "id": "3229d329-5d0b-45f4-9d1d-1ea46d3b2424",
+                "resourcePath": "sprites\\book7\\book7.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -770,7 +1116,11 @@
             "Key": "6ce02590-43ca-47cd-8099-5e86d58906db",
             "Value": {
                 "id": "5ae991ba-40b2-42bc-b3cf-7ca6ad10fb9e",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/boss_attackstart\/boss_attackstart.yy",
+=======
+                "resourcePath": "sprites\\boss_attackstart\\boss_attackstart.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -786,7 +1136,11 @@
             "Key": "6eeab601-3507-4591-8786-19e6a0edf143",
             "Value": {
                 "id": "5fc35e8f-6687-4fbb-a2b2-85e6bda0ae5a",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/boss_telein\/boss_telein.yy",
+=======
+                "resourcePath": "sprites\\boss_telein\\boss_telein.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -802,7 +1156,11 @@
             "Key": "6ffe1750-f0a8-4ff5-a61d-61b6c9c7f998",
             "Value": {
                 "id": "c1a83321-7006-4d41-932e-1f127464053e",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/bomber_idle\/bomber_idle.yy",
+=======
+                "resourcePath": "sprites\\bomber_idle\\bomber_idle.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -810,7 +1168,11 @@
             "Key": "6fff53f8-4549-4148-a29a-e4c170c3a07b",
             "Value": {
                 "id": "1bb2fb04-9bbd-47fa-b5a0-95e22b9794df",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/lancer_reflect\/lancer_reflect.yy",
+=======
+                "resourcePath": "sprites\\lancer_reflect\\lancer_reflect.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -818,7 +1180,11 @@
             "Key": "7069516c-2441-464a-a977-e928e62d1804",
             "Value": {
                 "id": "d1d4f200-b45d-4683-aa33-d36f6d2ce3fd",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/arm\/arm.yy",
+=======
+                "resourcePath": "sprites\\arm\\arm.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -831,6 +1197,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "720bc1ee-d73b-4995-9d02-01dad189a1c5",
             "Value": {
                 "id": "adc82ced-f67d-4076-a9db-80ef38ff34a8",
@@ -847,6 +1214,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of 61ea727... Merge branch????
             "Key": "73450a15-845f-446e-a45a-7a2fce5da663",
             "Value": {
                 "id": "2f204445-8aba-401c-a71b-0d7e994ff8ed",
@@ -855,6 +1224,17 @@
             }
         },
         {
+<<<<<<< HEAD
+=======
+            "Key": "74889d6b-5346-4f63-a9a4-de61cead87e3",
+            "Value": {
+                "id": "1be1531a-4b7b-47be-800e-fb2f39631d64",
+                "resourcePath": "rooms\/room_caveoutro\/room_caveoutro.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+>>>>>>> parent of 61ea727... Merge branch????
             "Key": "753004a1-dbac-4610-9e30-15a578732c12",
             "Value": {
                 "id": "2014df96-78fb-4f84-b755-c514040e020f",
@@ -863,6 +1243,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "75330ec1-a18f-4d95-b80f-03ff3dec11aa",
             "Value": {
                 "id": "5267c4cd-789c-4863-b838-ec070cc3d551",
@@ -871,6 +1252,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of 61ea727... Merge branch????
             "Key": "76690699-7568-4cb4-83a2-c32d74aaf5ed",
             "Value": {
                 "id": "6ab55cfc-dd16-4b96-a40e-325557dac87b",
@@ -882,11 +1265,16 @@
             "Key": "767fe8ef-33aa-415e-8c86-6899215d5a94",
             "Value": {
                 "id": "ccdd014f-d046-4aa3-95f7-20d5060e79fb",
+<<<<<<< HEAD
                 "resourcePath": "views\/767fe8ef-33aa-415e-8c86-6899215d5a94.yy",
+=======
+                "resourcePath": "views\\767fe8ef-33aa-415e-8c86-6899215d5a94.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMFolder"
             }
         },
         {
+<<<<<<< HEAD
             "Key": "770750da-4090-4993-9265-d9badf9407a3",
             "Value": {
                 "id": "b5625e2f-2d6f-41e1-8965-5f450c108605",
@@ -899,6 +1287,12 @@
             "Value": {
                 "id": "28c60cb4-43ff-4317-b473-7fe69958dfaf",
                 "resourcePath": "sprites\/spr_run_down\/spr_run_down.yy",
+=======
+            "Key": "77770ae4-09e3-48bd-be12-91463eea6c84",
+            "Value": {
+                "id": "28c60cb4-43ff-4317-b473-7fe69958dfaf",
+                "resourcePath": "sprites\\spr_run_down\\spr_run_down.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -906,7 +1300,11 @@
             "Key": "77c44db6-5605-4a4f-8bdf-c097e50ea520",
             "Value": {
                 "id": "40807c04-21ec-4aa3-a003-f9b923901e4e",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/bomber_teleout\/bomber_teleout.yy",
+=======
+                "resourcePath": "sprites\\bomber_teleout\\bomber_teleout.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -914,7 +1312,11 @@
             "Key": "78e6926b-e825-45b7-b7fd-02a65571535d",
             "Value": {
                 "id": "fdcb9106-8975-4227-a318-b384b3ea6151",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/chaser_attack\/chaser_attack.yy",
+=======
+                "resourcePath": "sprites\\chaser_attack\\chaser_attack.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -922,7 +1324,11 @@
             "Key": "79794c55-3312-4e3a-986e-73b4d92ed867",
             "Value": {
                 "id": "47c55298-4a60-434c-a02b-afcaab8201b2",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/button3\/button3.yy",
+=======
+                "resourcePath": "sprites\\button3\\button3.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -930,7 +1336,11 @@
             "Key": "79ee6b99-b811-47be-a7ee-ed603568d19c",
             "Value": {
                 "id": "f800d2fc-adca-4360-8618-be5cdd9cf2b2",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/flag2\/flag2.yy",
+=======
+                "resourcePath": "sprites\\flag2\\flag2.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -938,7 +1348,11 @@
             "Key": "79f7c4d2-d1e4-4445-b9ec-4af8a2aab6c3",
             "Value": {
                 "id": "396d0bca-d2fa-42be-b220-b493cdc2226d",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/worm_move\/worm_move.yy",
+=======
+                "resourcePath": "sprites\\worm_move\\worm_move.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -946,7 +1360,19 @@
             "Key": "7b7197f9-3d40-4812-a1d3-206abd1a32b6",
             "Value": {
                 "id": "9b0aa405-3c96-49af-add0-d621e59a2923",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/swordsheath\/swordsheath.yy",
+=======
+                "resourcePath": "sprites\\swordsheath\\swordsheath.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7c44504d-c967-4808-8c77-b0472b03c60f",
+            "Value": {
+                "id": "ecc67a62-f303-4ba4-8655-1e529df52a6d",
+                "resourcePath": "sprites\\tree4\\tree4.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -954,11 +1380,34 @@
             "Key": "7d9ad2cf-3270-454d-9f4b-ad8086b2dc30",
             "Value": {
                 "id": "483d4a0d-4add-4d1c-80a0-40531b74adcc",
+<<<<<<< HEAD
                 "resourcePath": "views\/7d9ad2cf-3270-454d-9f4b-ad8086b2dc30.yy",
+=======
+                "resourcePath": "views\\7d9ad2cf-3270-454d-9f4b-ad8086b2dc30.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMFolder"
             }
         },
         {
+<<<<<<< HEAD
+=======
+            "Key": "7e36d289-3e38-4b81-ab36-f77de9d0ac1d",
+            "Value": {
+                "id": "9ae775ad-b4f5-4e22-8c75-2f883e76dc38",
+                "resourcePath": "sprites\\corruption_flow2\\corruption_flow2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7e7ad41e-ee69-40b7-ac36-9b0903842d3c",
+            "Value": {
+                "id": "19bed7a6-9498-417a-966a-202174c7fab6",
+                "resourcePath": "sprites\\corruption_flow4\\corruption_flow4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+>>>>>>> parent of 61ea727... Merge branch????
             "Key": "7e866101-4a96-4ac5-93b3-c41e63fa50e5",
             "Value": {
                 "id": "fcb62321-ae6d-4106-b6d7-87c7ca20e480",
@@ -970,11 +1419,16 @@
             "Key": "7f444295-3bc3-427c-ac64-7b54fb4295ba",
             "Value": {
                 "id": "f8538637-d3d2-48bf-bc72-da9fa822cbae",
+<<<<<<< HEAD
                 "resourcePath": "views\/7f444295-3bc3-427c-ac64-7b54fb4295ba.yy",
+=======
+                "resourcePath": "views\\7f444295-3bc3-427c-ac64-7b54fb4295ba.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMFolder"
             }
         },
         {
+<<<<<<< HEAD
             "Key": "802f5b7f-c6a8-4409-a272-55c16de9c860",
             "Value": {
                 "id": "5f8897cf-98df-47ff-9ee5-a7e742613729",
@@ -988,13 +1442,25 @@
                 "id": "66cff474-addc-4936-8ff7-c8ff9d53e0c8",
                 "resourcePath": "tilesets\/tileset_corruptionflow2\/tileset_corruptionflow2.yy",
                 "resourceType": "GMTileSet"
-            }
-        },
-        {
+=======
             "Key": "80c31012-d7e0-454c-997c-052c068a226b",
             "Value": {
                 "id": "50dda4d8-be3d-400b-95e5-fe16c4609311",
+                "resourcePath": "sprites\\ritual_loop\\ritual_loop.yy",
+                "resourceType": "GMSprite"
+>>>>>>> parent of 61ea727... Merge branch????
+            }
+        },
+        {
+            "Key": "80c8eacf-e1b0-4b1e-bd3a-2a36bc147568",
+            "Value": {
+<<<<<<< HEAD
+                "id": "50dda4d8-be3d-400b-95e5-fe16c4609311",
                 "resourcePath": "sprites\/ritual_loop\/ritual_loop.yy",
+=======
+                "id": "7e4237e9-16e4-4727-ad5a-3c259d35c556",
+                "resourcePath": "sprites\\book5\\book5.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1015,6 +1481,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "84d67ccc-6439-4ad4-b675-ab0576fb07a3",
             "Value": {
                 "id": "12b149dc-866e-4d04-b0be-b1fc525bc81c",
@@ -1027,6 +1494,12 @@
             "Value": {
                 "id": "8b21aee7-3d4f-48eb-9334-27b5a2612091",
                 "resourcePath": "sprites\/corruption\/corruption.yy",
+=======
+            "Key": "85203890-8e01-4b3c-b3c3-ec6115bf81c8",
+            "Value": {
+                "id": "8b21aee7-3d4f-48eb-9334-27b5a2612091",
+                "resourcePath": "sprites\\corruption1\\corruption1.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1042,7 +1515,25 @@
             "Key": "8632ffd0-f08d-4be4-9031-8af3256e4a67",
             "Value": {
                 "id": "ef0c3a68-25c1-4bc2-9e95-183611872859",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/worm_headexplosion\/worm_headexplosion.yy",
+=======
+                "resourcePath": "sprites\\worm_headexplosion\\worm_headexplosion.yy",
+>>>>>>> parent of 61ea727... Merge branch????
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+<<<<<<< HEAD
+            "Key": "88dcb48e-0e25-4bce-a1ce-1c796b10a57a",
+            "Value": {
+                "id": "c063b7c9-ef60-496c-92ea-f7be116cc037",
+                "resourcePath": "sprites\/spr_attack_left_1\/spr_attack_left_1.yy",
+=======
+            "Key": "86e07263-be17-4f3b-b94c-16cb168368c8",
+            "Value": {
+                "id": "26e55472-c1f9-450b-b06c-2f7a02e4e781",
+                "resourcePath": "sprites\\corruption_flow3\\corruption_flow3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1050,7 +1541,16 @@
             "Key": "88dcb48e-0e25-4bce-a1ce-1c796b10a57a",
             "Value": {
                 "id": "c063b7c9-ef60-496c-92ea-f7be116cc037",
-                "resourcePath": "sprites\/spr_attack_left_1\/spr_attack_left_1.yy",
+                "resourcePath": "sprites\\spr_attack_left_1\\spr_attack_left_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8911c6b4-d395-4882-8968-dacb74d751a9",
+            "Value": {
+                "id": "ed6894a3-59fc-4b80-a0d6-bff702ef864d",
+                "resourcePath": "sprites\\ritualcircle\\ritualcircle.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1058,7 +1558,11 @@
             "Key": "892f301a-ce57-4a88-8d4d-c8c5ed7d9679",
             "Value": {
                 "id": "e0fa5a4e-6350-42a6-b546-fb2f14c83a02",
+<<<<<<< HEAD
                 "resourcePath": "views\/892f301a-ce57-4a88-8d4d-c8c5ed7d9679.yy",
+=======
+                "resourcePath": "views\\892f301a-ce57-4a88-8d4d-c8c5ed7d9679.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMFolder"
             }
         },
@@ -1082,7 +1586,11 @@
             "Key": "8c8150ea-e9dd-4beb-b1dc-c420c16cd4b3",
             "Value": {
                 "id": "113a9421-6a39-4b94-bf27-bbd9bbf2eccf",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/laserhit\/laserhit.yy",
+=======
+                "resourcePath": "sprites\\laserhit\\laserhit.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1090,23 +1598,55 @@
             "Key": "8e7cb267-db11-4a84-92de-3179a3ed617a",
             "Value": {
                 "id": "06e75a2d-5006-4728-8c58-9c8859f76b92",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/channel_effect\/channel_effect.yy",
+=======
+                "resourcePath": "sprites\\channel_effect\\channel_effect.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
         {
+<<<<<<< HEAD
             "Key": "930c7741-4167-45ea-bcee-379962be6989",
             "Value": {
                 "id": "cf5ceb17-655e-4495-adc4-40d9ff3b453a",
                 "resourcePath": "tilesets\/tileset_dead\/tileset_dead.yy",
                 "resourceType": "GMTileSet"
+=======
+            "Key": "8fd08dc3-8212-4510-b6af-640a40df2ca4",
+            "Value": {
+                "id": "ef013b6c-823b-4725-a07e-b0fd75d9211d",
+                "resourcePath": "rooms\/room_badcave\/room_badcave.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "900d665f-76dc-45ae-ad1c-10bbe3de3524",
+            "Value": {
+                "id": "8092385f-589e-46cc-95d2-82065e676f3f",
+                "resourcePath": "sprites\\treetop1\\treetop1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "91454a83-0c80-46a0-9318-119a62a65961",
+            "Value": {
+                "id": "d0f3f70b-6f7f-4a77-bb57-b14edeac3570",
+                "resourcePath": "sprites\\tree1\\tree1.yy",
+                "resourceType": "GMSprite"
+>>>>>>> parent of 61ea727... Merge branch????
             }
         },
         {
             "Key": "93d7ad37-e3cf-43eb-98a4-13e4468ea44d",
             "Value": {
                 "id": "c5a3d5a7-71f4-4c85-b1fe-54afd8cfaa9d",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/slime_death\/slime_death.yy",
+=======
+                "resourcePath": "sprites\\slime_death\\slime_death.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1122,8 +1662,20 @@
             "Key": "968b4e5a-677b-49a3-8b59-3a2d7820bd5c",
             "Value": {
                 "id": "30e89d38-50fa-45b4-806f-7625e69b2010",
+<<<<<<< HEAD
                 "resourcePath": "views\/968b4e5a-677b-49a3-8b59-3a2d7820bd5c.yy",
+=======
+                "resourcePath": "views\\968b4e5a-677b-49a3-8b59-3a2d7820bd5c.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9734eaeb-3082-432f-858c-73580c871efd",
+            "Value": {
+                "id": "635aaa95-82ae-49eb-9c7f-0fcf8dac8ece",
+                "resourcePath": "sprites\\book4\\book4.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1138,6 +1690,7 @@
             "Key": "9863025c-d4a0-409b-b044-2c788c154b90",
             "Value": {
                 "id": "ee99f333-3652-4a14-bf06-e4a3dae9fe52",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/ritual_start\/ritual_start.yy",
                 "resourceType": "GMSprite"
             }
@@ -1156,6 +1709,10 @@
                 "id": "17596cc0-a830-4886-a5af-92af4fc063d3",
                 "resourcePath": "tilesets\/tileset_torches\/tileset_torches.yy",
                 "resourceType": "GMTileSet"
+=======
+                "resourcePath": "sprites\\ritual_start\\ritual_start.yy",
+                "resourceType": "GMSprite"
+>>>>>>> parent of 61ea727... Merge branch????
             }
         },
         {
@@ -1170,7 +1727,11 @@
             "Key": "9a117d26-a267-46aa-87cc-e1560d21a57a",
             "Value": {
                 "id": "fbad3aac-7ed4-48ce-9a2d-333206b8b623",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/oldspr_attack_left_2\/oldspr_attack_left_2.yy",
+=======
+                "resourcePath": "sprites\\oldspr_attack_left_2\\oldspr_attack_left_2.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1178,7 +1739,11 @@
             "Key": "9a1eea22-c8a6-41c2-91ce-3eba3e8b35d6",
             "Value": {
                 "id": "c1b22101-92de-41c0-870b-7dd0a281a0cc",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/boss_death\/boss_death.yy",
+=======
+                "resourcePath": "sprites\\boss_death\\boss_death.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1202,7 +1767,19 @@
             "Key": "9e38de02-18df-46bb-972c-3a53a5bb6d49",
             "Value": {
                 "id": "907fd343-ce9b-487a-866b-dba232f07813",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/saw\/saw.yy",
+=======
+                "resourcePath": "sprites\\saw\\saw.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9e6e2ef8-3930-4014-a2f1-7cdd8de88c3a",
+            "Value": {
+                "id": "6ceff244-c799-49ab-a410-39fb89c0488f",
+                "resourcePath": "sprites\\treetop3\\treetop3.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1210,7 +1787,11 @@
             "Key": "a09bacc7-b0b5-49cd-bed9-75bb5534b4b6",
             "Value": {
                 "id": "b2d99d9e-5d08-4239-87bf-033bac0262af",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/meleeslash\/meleeslash.yy",
+=======
+                "resourcePath": "sprites\\meleeslash\\meleeslash.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1218,7 +1799,11 @@
             "Key": "a1a4272c-0f87-426f-a044-2c52008e37ff",
             "Value": {
                 "id": "3bd9d73d-6fdd-46b5-a186-d980642f670e",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/oldspr_idle_right\/oldspr_idle_right.yy",
+=======
+                "resourcePath": "sprites\\oldspr_idle_right\\oldspr_idle_right.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1226,7 +1811,11 @@
             "Key": "a211efce-cc24-49fc-8120-7698e4c4c96b",
             "Value": {
                 "id": "87d51583-5348-4e92-84ee-b160c624f476",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/barrier\/barrier.yy",
+=======
+                "resourcePath": "sprites\\barrier\\barrier.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1234,7 +1823,11 @@
             "Key": "a2891ade-f8e0-423e-9f74-a4bee7177c16",
             "Value": {
                 "id": "156c9fd2-75ac-47c0-bfad-3eebbe72b879",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/button1\/button1.yy",
+=======
+                "resourcePath": "sprites\\button1\\button1.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1242,7 +1835,11 @@
             "Key": "a3764ee6-3c0e-464d-b29b-2314fb95cd17",
             "Value": {
                 "id": "b260f06f-f3d7-4d0f-a247-e4bdf216708a",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/oldspr_attack_right_1\/oldspr_attack_right_1.yy",
+=======
+                "resourcePath": "sprites\\oldspr_attack_right_1\\oldspr_attack_right_1.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1250,7 +1847,11 @@
             "Key": "a43cbd22-c137-4acd-90eb-ad21f05fc5b6",
             "Value": {
                 "id": "13ddb481-4671-479b-9250-b234e188d07f",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/guidarkness\/guidarkness.yy",
+=======
+                "resourcePath": "sprites\\guidarkness\\guidarkness.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1258,7 +1859,11 @@
             "Key": "a5daee40-fbd9-4206-87da-3a37e7b0dbec",
             "Value": {
                 "id": "27a441e1-33df-4e30-9fc7-7dc2dae55651",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/spr_attack_left_2\/spr_attack_left_2.yy",
+=======
+                "resourcePath": "sprites\\spr_attack_left_2\\spr_attack_left_2.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1287,6 +1892,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "a6e1af2f-821f-46e6-a482-31dfca798591",
             "Value": {
                 "id": "cf78023b-920c-4a4d-98cd-04d3bf426753",
@@ -1295,6 +1901,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of 61ea727... Merge branch????
             "Key": "a8c63299-9613-46b6-8e1c-6d4a5646198b",
             "Value": {
                 "id": "b37ca65f-8cf5-42f0-b826-9e549084bc43",
@@ -1306,7 +1914,11 @@
             "Key": "a8fedef2-27b8-4535-97a1-b8f0c5b3b147",
             "Value": {
                 "id": "2aafa661-6eb8-45d2-8894-7c381421248a",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/bomberthrow\/bomberthrow.yy",
+=======
+                "resourcePath": "sprites\\bomberthrow\\bomberthrow.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1322,11 +1934,16 @@
             "Key": "a97f993b-f456-4aa8-8088-1f39c5e1fd0b",
             "Value": {
                 "id": "d40b1bbb-7b83-414a-8a1e-81f576e01d8a",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/laser\/laser.yy",
+=======
+                "resourcePath": "sprites\\laser\\laser.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
         {
+<<<<<<< HEAD
             "Key": "ab17d7aa-a31c-49e8-aae7-0ab34cc0b9de",
             "Value": {
                 "id": "d1662484-1144-4aee-8ff6-56acdac112d9",
@@ -1335,6 +1952,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of 61ea727... Merge branch????
             "Key": "ac2a815e-93fe-448f-b24b-e7cc8270fb19",
             "Value": {
                 "id": "b64bb2ef-bd73-4617-b07e-48ba26698eda",
@@ -1346,7 +1965,11 @@
             "Key": "ad074233-2215-4243-92e2-81e0777a8669",
             "Value": {
                 "id": "0a52bcde-5f79-4bf1-a80c-152834ecf081",
+<<<<<<< HEAD
                 "resourcePath": "views\/ad074233-2215-4243-92e2-81e0777a8669.yy",
+=======
+                "resourcePath": "views\\ad074233-2215-4243-92e2-81e0777a8669.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMFolder"
             }
         },
@@ -1378,7 +2001,19 @@
             "Key": "aebe8e0d-1c6b-4adf-a182-27cd412fbd03",
             "Value": {
                 "id": "9b0fbace-b22a-4ef2-8617-b9a219207b00",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/firesmall\/firesmall.yy",
+=======
+                "resourcePath": "sprites\\firesmall\\firesmall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "af1d2a0b-8111-458f-a4ee-150e9100e57a",
+            "Value": {
+                "id": "6eb10dbf-99c9-4416-8455-7fa3f571452b",
+                "resourcePath": "sprites\\rock2\\rock2.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1386,7 +2021,11 @@
             "Key": "af9e1e61-3072-42ab-bdb3-140c595d2033",
             "Value": {
                 "id": "7468b4e4-f7d1-4e4e-a9c0-86bcaba09ec3",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/gaterune\/gaterune.yy",
+=======
+                "resourcePath": "sprites\\gaterune\\gaterune.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1394,7 +2033,11 @@
             "Key": "afb2e7d0-de16-4715-9c12-4904a0185df8",
             "Value": {
                 "id": "41dd0da2-b29e-49f2-8955-ee58009082a1",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/loader\/loader.yy",
+=======
+                "resourcePath": "sprites\\loader\\loader.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1415,18 +2058,53 @@
             }
         },
         {
+            "Key": "b1bdc1a5-c256-4370-b8a0-4c03801a62e1",
+            "Value": {
+                "id": "d2e53b9e-a353-44f1-bc0d-aa7114284161",
+                "resourcePath": "sprites\\tent6\\tent6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b2eaa312-d2dc-4ff4-bd8d-d90cc43e8226",
+            "Value": {
+                "id": "ea62985a-a250-4484-9d20-789512a59a1d",
+                "resourcePath": "sprites\\rock3\\rock3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b32fe14a-d9c5-4f56-a10f-9f46217bd882",
             "Value": {
                 "id": "056a576d-bba7-436e-9531-29b9b44edb40",
+<<<<<<< HEAD
                 "resourcePath": "views\/b32fe14a-d9c5-4f56-a10f-9f46217bd882.yy",
+=======
+                "resourcePath": "views\\b32fe14a-d9c5-4f56-a10f-9f46217bd882.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+<<<<<<< HEAD
+            "Key": "b435b6c5-c2f4-400b-9c2e-6c3159595a40",
+            "Value": {
+                "id": "ddb3914e-19fa-4e61-9cb9-460d69793bcc",
+                "resourcePath": "views\/b435b6c5-c2f4-400b-9c2e-6c3159595a40.yy",
+=======
+            "Key": "b35f9fe0-faff-485c-a6cc-f5a0f322b9be",
+            "Value": {
+                "id": "af07baba-77ba-4412-9596-470f78fc0ad9",
+                "resourcePath": "sprites\\torch3\\torch3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
             "Key": "b435b6c5-c2f4-400b-9c2e-6c3159595a40",
             "Value": {
                 "id": "ddb3914e-19fa-4e61-9cb9-460d69793bcc",
-                "resourcePath": "views\/b435b6c5-c2f4-400b-9c2e-6c3159595a40.yy",
+                "resourcePath": "views\\b435b6c5-c2f4-400b-9c2e-6c3159595a40.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMFolder"
             }
         },
@@ -1434,7 +2112,11 @@
             "Key": "b4526adc-9421-4adb-8c12-dd3abdcbaca7",
             "Value": {
                 "id": "5cd31f05-4494-40d0-ad21-e60450221886",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/groundtrap\/groundtrap.yy",
+=======
+                "resourcePath": "sprites\\groundtrap\\groundtrap.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1450,7 +2132,11 @@
             "Key": "b4ea391b-cb42-4df6-953c-c93ffe870e5b",
             "Value": {
                 "id": "e194449b-b975-4855-a55f-e4eed098e371",
+<<<<<<< HEAD
                 "resourcePath": "views\/b4ea391b-cb42-4df6-953c-c93ffe870e5b.yy",
+=======
+                "resourcePath": "views\\b4ea391b-cb42-4df6-953c-c93ffe870e5b.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMFolder"
             }
         },
@@ -1458,7 +2144,11 @@
             "Key": "b505c238-ef19-4ab5-9f49-8e6045a45401",
             "Value": {
                 "id": "cc9fcff2-a14f-4240-b3b2-4fafc2fa6f79",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/rocks\/rocks.yy",
+=======
+                "resourcePath": "sprites\\rock1\\rock1.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1466,11 +2156,16 @@
             "Key": "b517b681-f969-4085-a0af-ce434811a957",
             "Value": {
                 "id": "6a96f06c-a7d8-4c28-bf12-4cc175a63a5e",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/lancer_attack\/lancer_attack.yy",
+=======
+                "resourcePath": "sprites\\lancer_attack\\lancer_attack.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
         {
+<<<<<<< HEAD
             "Key": "b760ac8f-f9ba-49b6-9469-cd77f91fe26e",
             "Value": {
                 "id": "fc626fa4-0498-4afe-bcbb-9845dbede19e",
@@ -1483,6 +2178,12 @@
             "Value": {
                 "id": "840f72cf-dad6-4f20-88a3-55ce8b8534a9",
                 "resourcePath": "sprites\/guidamaged\/guidamaged.yy",
+=======
+            "Key": "b795bc55-1695-40b6-a773-91f7b7944311",
+            "Value": {
+                "id": "840f72cf-dad6-4f20-88a3-55ce8b8534a9",
+                "resourcePath": "sprites\\guidamaged\\guidamaged.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1490,7 +2191,11 @@
             "Key": "b9b6f550-75c5-44be-a70d-4e5c902f95cc",
             "Value": {
                 "id": "f898fded-de00-41be-9611-18c8a874c94b",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/firelarge\/firelarge.yy",
+=======
+                "resourcePath": "sprites\\firelarge\\firelarge.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1498,7 +2203,11 @@
             "Key": "b9f903a3-1b1f-445a-b037-1aa6a45a4a76",
             "Value": {
                 "id": "f37c6965-c4f0-4ecb-8275-7977baf97ce2",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/dasheffect\/dasheffect.yy",
+=======
+                "resourcePath": "sprites\\dasheffect\\dasheffect.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1506,7 +2215,11 @@
             "Key": "ba0c65dc-5e83-43d3-ae96-023f64bc5efd",
             "Value": {
                 "id": "b9dfe9b1-245b-460f-93ef-dc7e42aede63",
+<<<<<<< HEAD
                 "resourcePath": "views\/ba0c65dc-5e83-43d3-ae96-023f64bc5efd.yy",
+=======
+                "resourcePath": "views\\ba0c65dc-5e83-43d3-ae96-023f64bc5efd.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMFolder"
             }
         },
@@ -1514,7 +2227,11 @@
             "Key": "bbf9e47e-acf8-4e71-abcc-e7e15fc12188",
             "Value": {
                 "id": "f4f17454-94d2-46a4-8252-fa2869b20f63",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/foulground\/foulground.yy",
+=======
+                "resourcePath": "sprites\\foulground\\foulground.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1524,6 +2241,14 @@
                 "id": "4aae7d9d-a4c5-4093-9528-2ece0504b541",
                 "resourcePath": "objects\/Obj_Player\/Obj_Player.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bc7fb8e5-44d2-4745-b4a3-726cdfbefcb2",
+            "Value": {
+                "id": "f525e9ba-12cb-4d51-b85c-086a074ba6df",
+                "resourcePath": "sprites\\bush1\\bush1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1538,7 +2263,11 @@
             "Key": "c03c3a05-0b80-4b76-91af-9346c7f319a3",
             "Value": {
                 "id": "a3f613ba-50e1-40de-9a69-477a9583d129",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/boss_attackend\/boss_attackend.yy",
+=======
+                "resourcePath": "sprites\\boss_attackend\\boss_attackend.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1551,6 +2280,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "c1819013-dc98-4ebe-a4ff-2c525167298f",
             "Value": {
                 "id": "284d5f8b-e146-4c62-a61c-c7f3b567031a",
@@ -1563,6 +2293,12 @@
             "Value": {
                 "id": "1af035ef-792f-4c7c-89a5-d9296d0211d6",
                 "resourcePath": "sprites\/chaser_damaged\/chaser_damaged.yy",
+=======
+            "Key": "c270df44-4d7d-47d0-809d-7ac306ab1546",
+            "Value": {
+                "id": "1af035ef-792f-4c7c-89a5-d9296d0211d6",
+                "resourcePath": "sprites\\chaser_damaged\\chaser_damaged.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1570,7 +2306,11 @@
             "Key": "c2e2d479-b6a0-48b8-8e43-2be295a4d304",
             "Value": {
                 "id": "e69f2b33-54cf-4a2a-96ce-b4d596f25213",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/boss_attackloop\/boss_attackloop.yy",
+=======
+                "resourcePath": "sprites\\boss_attackloop\\boss_attackloop.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1578,15 +2318,34 @@
             "Key": "c314f300-8c54-4d0d-82fe-882bf1b34219",
             "Value": {
                 "id": "a8b36d8f-bcf6-43d9-b2a7-579f496d7f1b",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/bomber_death\/bomber_death.yy",
+=======
+                "resourcePath": "sprites\\bomber_death\\bomber_death.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+<<<<<<< HEAD
+            "Key": "c4ffbed3-b788-4a5e-89f5-dcde69d662ed",
+            "Value": {
+                "id": "bd2069a8-6271-49ea-9cfd-981abcbb3def",
+                "resourcePath": "sprites\/boss_channel\/boss_channel.yy",
+=======
+            "Key": "c402de1d-99a4-4be6-ae29-01b221e9d27e",
+            "Value": {
+                "id": "c59c8fd6-7eed-4f30-a963-0ab06e86d0de",
+                "resourcePath": "rooms\/room_caveintro\/room_caveintro.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
             "Key": "c4ffbed3-b788-4a5e-89f5-dcde69d662ed",
             "Value": {
                 "id": "bd2069a8-6271-49ea-9cfd-981abcbb3def",
-                "resourcePath": "sprites\/boss_channel\/boss_channel.yy",
+                "resourcePath": "sprites\\boss_channel\\boss_channel.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1594,7 +2353,19 @@
             "Key": "c576b0d5-2a48-49b2-9743-c663876ff638",
             "Value": {
                 "id": "12a0fde0-291f-4670-a4fd-67a17cdefc5d",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/ground\/ground.yy",
+=======
+                "resourcePath": "sprites\\ground\\ground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c5dff29b-fc20-4a96-8b4a-9d5668b0332d",
+            "Value": {
+                "id": "98ad66fe-8835-494b-a51a-2089436ddb61",
+                "resourcePath": "sprites\\bush2\\bush2.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1602,7 +2373,11 @@
             "Key": "c6b2fd66-5aff-480a-a1ce-99f31722700d",
             "Value": {
                 "id": "116af667-90dd-4b0f-8a72-d280b792951d",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/chaser_death\/chaser_death.yy",
+=======
+                "resourcePath": "sprites\\chaser_death\\chaser_death.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1610,7 +2385,19 @@
             "Key": "c7fed18a-e7ef-41e3-b328-c94afaa2693d",
             "Value": {
                 "id": "b7d1932f-bb35-471e-8e36-3f52bd49e254",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/bomberexplosion\/bomberexplosion.yy",
+=======
+                "resourcePath": "sprites\\bomberexplosion\\bomberexplosion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c8615285-352a-4a8c-b177-c171c4690d61",
+            "Value": {
+                "id": "f9ba104d-09fc-4340-b6a2-f7d9e8b85be6",
+                "resourcePath": "sprites\\tent3\\tent3.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1618,7 +2405,11 @@
             "Key": "c86f5e51-888b-4aab-9eee-88dcec04cf40",
             "Value": {
                 "id": "dea7ce4c-f3b4-4844-97f7-616f4633d3c3",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/cliffearth\/cliffearth.yy",
+=======
+                "resourcePath": "sprites\\cliffearth\\cliffearth.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1626,7 +2417,11 @@
             "Key": "c8863a6d-879f-4b01-a68f-e10ed84a9c42",
             "Value": {
                 "id": "8a0f7393-c4b3-4b49-8581-bbb5f9e570be",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/gate2\/gate2.yy",
+=======
+                "resourcePath": "sprites\\gate2\\gate2.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1666,7 +2461,11 @@
             "Key": "cdcc48ab-435a-4700-a216-e5ec49a29979",
             "Value": {
                 "id": "fd36cd75-1d85-4e92-8511-8aa70a6b8033",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/cliffwater\/cliffwater.yy",
+=======
+                "resourcePath": "sprites\\cliffwater\\cliffwater.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1682,7 +2481,11 @@
             "Key": "cf9eed50-4b21-400d-906c-7ead4ef87bb5",
             "Value": {
                 "id": "09be5e52-633f-46eb-aca3-3d2e4c942f5a",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/foulexplosion\/foulexplosion.yy",
+=======
+                "resourcePath": "sprites\\foulexplosion\\foulexplosion.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1698,7 +2501,11 @@
             "Key": "d4633f40-6791-4ee5-a40b-c1f2e23c20de",
             "Value": {
                 "id": "7fbfa4b9-2829-4c39-844b-d53cb554281a",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/meleeaoe\/meleeaoe.yy",
+=======
+                "resourcePath": "sprites\\meleeaoe\\meleeaoe.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1714,7 +2521,11 @@
             "Key": "d5319813-2163-42f3-85ed-fc51c5b1f8ed",
             "Value": {
                 "id": "cfa8ac42-7170-4dd7-aefd-ec7940a7c0a2",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/oldspr_run_left\/oldspr_run_left.yy",
+=======
+                "resourcePath": "sprites\\oldspr_run_left\\oldspr_run_left.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1722,6 +2533,7 @@
             "Key": "d57e9ca0-6ce8-4061-84e0-21ea85747114",
             "Value": {
                 "id": "e0af89bf-0cbc-4647-8ce2-6c5b7d265f0c",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/bomber_telein\/bomber_telein.yy",
                 "resourceType": "GMSprite"
             }
@@ -1740,6 +2552,10 @@
                 "id": "4bd9e3c0-dff7-4795-8754-1b6fa58fae6a",
                 "resourcePath": "tilesets\/tileset_extra\/tileset_extra.yy",
                 "resourceType": "GMTileSet"
+=======
+                "resourcePath": "sprites\\bomber_telein\\bomber_telein.yy",
+                "resourceType": "GMSprite"
+>>>>>>> parent of 61ea727... Merge branch????
             }
         },
         {
@@ -1751,19 +2567,30 @@
             }
         },
         {
-            "Key": "dad2edab-38e8-4d29-a094-c0bde2eb03c3",
+            "Key": "d8ca7f7f-c461-435e-97fa-3e1c08c20c76",
             "Value": {
+<<<<<<< HEAD
                 "id": "2390dab3-aee4-482b-a87c-8060481cb83f",
                 "resourcePath": "sprites\/gate1\/gate1.yy",
+=======
+                "id": "dd2f2949-1688-44ec-a14f-d9f57c4bc669",
+                "resourcePath": "sprites\\book2\\book2.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
         {
-            "Key": "db00b546-c230-4a9a-8523-be37fa296e51",
+            "Key": "dad2edab-38e8-4d29-a094-c0bde2eb03c3",
             "Value": {
+<<<<<<< HEAD
                 "id": "e5fc8562-4f39-4bb3-a991-83afe02f03e5",
                 "resourcePath": "tilesets\/tileset_trees\/tileset_trees.yy",
                 "resourceType": "GMTileSet"
+=======
+                "id": "2390dab3-aee4-482b-a87c-8060481cb83f",
+                "resourcePath": "sprites\\gate1\\gate1.yy",
+                "resourceType": "GMSprite"
+>>>>>>> parent of 61ea727... Merge branch????
             }
         },
         {
@@ -1791,18 +2618,30 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "dd6ba2d0-e443-465d-8720-77169c8fa45b",
             "Value": {
                 "id": "19b82b4d-23d3-4838-a502-8a0332b6b164",
                 "resourcePath": "tilesets\/tileset_arm\/tileset_arm.yy",
                 "resourceType": "GMTileSet"
+=======
+            "Key": "dd4b1957-67a1-4406-868e-ee3df74d6105",
+            "Value": {
+                "id": "0a5bc9df-f712-4d0c-8d8d-2433b9de4802",
+                "resourcePath": "sprites\\corruption_flow5\\corruption_flow5.yy",
+                "resourceType": "GMSprite"
+>>>>>>> parent of 61ea727... Merge branch????
             }
         },
         {
             "Key": "dd6ca37b-21d1-42b2-aba5-b6c4c5c51455",
             "Value": {
                 "id": "e4d825e4-aaf1-4875-834d-0c0387008031",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/lancer_idle\/lancer_idle.yy",
+=======
+                "resourcePath": "sprites\\lancer_idle\\lancer_idle.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1810,7 +2649,11 @@
             "Key": "dd70d58d-fa3c-436e-8f03-67ff2b159d65",
             "Value": {
                 "id": "ebe6d7b8-378b-453c-bd93-4027f0219f14",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/well\/well.yy",
+=======
+                "resourcePath": "sprites\\well\\well.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1818,7 +2661,11 @@
             "Key": "ddf5faf3-501f-4495-afcf-53d6f393bf17",
             "Value": {
                 "id": "40ade67e-de84-489c-97f1-c61f88727308",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/runes\/runes.yy",
+=======
+                "resourcePath": "sprites\\runes\\runes.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1850,7 +2697,11 @@
             "Key": "e5698a1f-eb5e-4902-a64b-7adcfdfccc9b",
             "Value": {
                 "id": "305b9c88-2e2f-4486-815b-659102226d35",
+<<<<<<< HEAD
                 "resourcePath": "views\/e5698a1f-eb5e-4902-a64b-7adcfdfccc9b.yy",
+=======
+                "resourcePath": "views\\e5698a1f-eb5e-4902-a64b-7adcfdfccc9b.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMFolder"
             }
         },
@@ -1874,7 +2725,11 @@
             "Key": "eaad7578-fff7-4e5d-8ae6-ec750eb7c4f8",
             "Value": {
                 "id": "40641196-5ea6-49e1-9aea-03e61fe3022f",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/station_death\/station_death.yy",
+=======
+                "resourcePath": "sprites\\station_death\\station_death.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1882,7 +2737,11 @@
             "Key": "ec4ac241-d6ee-4dc7-978b-2d3b05e118e9",
             "Value": {
                 "id": "d9d0b883-9874-4b70-af4a-2509b89a0a2b",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/foulmeteor\/foulmeteor.yy",
+=======
+                "resourcePath": "sprites\\foulmeteor\\foulmeteor.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1890,7 +2749,11 @@
             "Key": "ee6355e2-0974-4727-91c3-8a62efb73aa7",
             "Value": {
                 "id": "1aa19954-530a-418d-bc98-bbef4e06b543",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/brokensword\/brokensword.yy",
+=======
+                "resourcePath": "sprites\\brokensword\\brokensword.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1898,7 +2761,11 @@
             "Key": "eea2a7b5-a431-4069-9a49-7d68d92752c2",
             "Value": {
                 "id": "84010f0a-4819-4e78-b24e-bc2605521290",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/oldspr_run_down\/oldspr_run_down.yy",
+=======
+                "resourcePath": "sprites\\oldspr_run_down\\oldspr_run_down.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1914,7 +2781,11 @@
             "Key": "f0207f99-4404-485f-b844-baf180a21627",
             "Value": {
                 "id": "9a9e8722-0373-40e9-98d5-eb46acf13161",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/arrowshot\/arrowshot.yy",
+=======
+                "resourcePath": "sprites\\arrowshot\\arrowshot.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1922,7 +2793,11 @@
             "Key": "f031dce2-ad29-44bb-bd35-817d98d5ff85",
             "Value": {
                 "id": "d3a0ec20-7685-40b8-bc74-607a18d869bb",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/chaser_move\/chaser_move.yy",
+=======
+                "resourcePath": "sprites\\chaser_move\\chaser_move.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1938,7 +2813,11 @@
             "Key": "f2c077c2-ee78-4335-81c3-739650cbfb8f",
             "Value": {
                 "id": "873db9aa-c880-48c4-b5d0-1b204e65c1f7",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/chaser_lunge\/chaser_lunge.yy",
+=======
+                "resourcePath": "sprites\\chaser_lunge\\chaser_lunge.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -1970,11 +2849,16 @@
             "Key": "f6611b13-7436-45da-a965-03b6f6c36a7f",
             "Value": {
                 "id": "026506e9-636f-4084-b559-47e98fe9c31a",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/guihealth\/guihealth.yy",
+=======
+                "resourcePath": "sprites\\guihealth\\guihealth.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
         {
+<<<<<<< HEAD
             "Key": "f7a79e6a-b9d6-46ff-a391-baf7956434e3",
             "Value": {
                 "id": "5a48e28c-c6b8-47dd-a37e-c4791cd368b2",
@@ -1995,6 +2879,12 @@
             "Value": {
                 "id": "90099fb4-aee4-4259-85f8-c0e8cb0fe983",
                 "resourcePath": "sprites\/tents\/tents.yy",
+=======
+            "Key": "f7bc512b-e43a-433e-8882-83f805f0f24a",
+            "Value": {
+                "id": "af4d174d-935a-4a99-8a56-15b8ff9725c9",
+                "resourcePath": "sprites\\spr_run_left\\spr_run_left.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -2010,7 +2900,11 @@
             "Key": "fa17a5d9-b8d8-44de-840a-152ffef84445",
             "Value": {
                 "id": "b7ebbf2a-3f38-4a32-bdee-35610a486f3d",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/boss_hit\/boss_hit.yy",
+=======
+                "resourcePath": "sprites\\boss_hit\\boss_hit.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMSprite"
             }
         },
@@ -2018,7 +2912,11 @@
             "Key": "fad6eb66-e2b3-4d4a-8179-d551ea556f18",
             "Value": {
                 "id": "f79dd99a-31b2-417e-91e9-d29b3abef604",
+<<<<<<< HEAD
                 "resourcePath": "views\/fad6eb66-e2b3-4d4a-8179-d551ea556f18.yy",
+=======
+                "resourcePath": "views\\fad6eb66-e2b3-4d4a-8179-d551ea556f18.yy",
+>>>>>>> parent of 61ea727... Merge branch????
                 "resourceType": "GMFolder"
             }
         },
@@ -2037,6 +2935,25 @@
                 "resourcePath": "sprites\/spr_effect_burst_large\/spr_effect_burst_large.yy",
                 "resourceType": "GMSprite"
             }
+<<<<<<< HEAD
+=======
+        },
+        {
+            "Key": "fec8b604-a5cd-4702-b1ef-57daf8f053c8",
+            "Value": {
+                "id": "e34f2f56-a210-4aae-8bb0-9d1562bdbf3f",
+                "resourcePath": "views\/fec8b604-a5cd-4702-b1ef-57daf8f053c8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ff52f5ca-1c07-4830-9ffc-50d1af2c88f2",
+            "Value": {
+                "id": "90431410-79b3-41e7-b785-29c27254ed49",
+                "resourcePath": "sprites\\book8\\book8.yy",
+                "resourceType": "GMSprite"
+            }
+>>>>>>> parent of 61ea727... Merge branch????
         }
     ],
     "script_order": [
