@@ -13,12 +13,25 @@ _length = 0;
 CanAttack = true;
 xOffset = 0;
 yOffset = 0;
+sequenceCount = 0;
 //
 ObjectType = CollisionType.Friendly;
 //
 Direction = DOWN;
 Action = IDLE;
+//Combo Array
+RightCombo[0] = spr_attack_right_1;
+RightCombo[1] =	spr_attack_right_2;
 //
+UpCombo[0] = spr_attack_right_1;
+UpCombo[1] = spr_attack_right_2;
+//
+LeftCombo[0] = spr_attack_left_1;
+LeftCombo[1] = spr_attack_left_2;
+//
+DownCombo[0] = spr_attack_left_1;
+DownCombo[1] = spr_attack_left_2;
+//JEFF ARRAY :3
 View[RIGHT, IDLE] = spr_idle_right;
 View[RIGHT, MOVE] = spr_run_right;
 View[RIGHT, RANGEDATTACK] = spr_attack_right_1;
@@ -38,4 +51,3 @@ View[DOWN, IDLE] = spr_idle_left;
 View[DOWN, MOVE] = spr_run_down;
 View[DOWN, RANGEDATTACK] = spr_attack_left_1;
 View[DOWN, MELEEATTACK] = spr_attack_left_1;
-//
