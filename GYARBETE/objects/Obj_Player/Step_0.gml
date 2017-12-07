@@ -22,3 +22,7 @@ switch(Direction)
 		yOffset = CELL;
 	break;
 }		
+View[@ RIGHT, MELEEATTACK] = RightCombo[sequenceCount];
+View[@ UP, MELEEATTACK] = UpCombo[sequenceCount];
+View[@ LEFT, MELEEATTACK] = LeftCombo[sequenceCount];
+View[@ DOWN, MELEEATTACK] = DownCombo[sequenceCount];
