@@ -1,22 +1,22 @@
 {
-    "id": "64811ea6-12da-4a95-9495-b2554facbc5c",
+    "id": "30ac1a63-1197-4a7e-9bf6-c55e5c1885fb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Obj_Collision",
+    "name": "Obj_Lancer",
     "eventList": [
         {
-            "id": "e6932ec8-33b4-4769-9c18-22813cdd9baf",
+            "id": "0d962abf-ff2b-496f-acfa-6d88a196991c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "64811ea6-12da-4a95-9495-b2554facbc5c"
+            "m_owner": "30ac1a63-1197-4a7e-9bf6-c55e5c1885fb"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "70d6d87a-0ef4-491c-a77f-49e7b2902e14",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -31,6 +31,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "4c19738d-a689-49bf-86d4-3f5295c2e348",
+    "spriteId": "dd6ca37b-21d1-42b2-aba5-b6c4c5c51455",
     "visible": true
 }
