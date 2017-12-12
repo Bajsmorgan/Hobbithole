@@ -1160,6 +1160,25 @@
             }
         },
         {
+            "Key": "37ca8c7d-7fa3-4709-8513-8bd6e9691fa6",
+            "Value": {
+                "id": "8de54fda-2d1d-4b18-ada1-8274e8632e4c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/room_town\/room_town.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "39207a7b-b39f-4afd-b2c4-42dc9744f82f",
             "Value": {
                 "id": "bcb499be-6fb2-4067-8750-081bfb66d6e5",
@@ -1423,25 +1442,6 @@
                 ],
                 "resourcePath": "objects\/Obj_dash_effect\/Obj_dash_effect.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "4bf0e91b-6c64-40ed-bdf4-d0b38933df85",
-            "Value": {
-                "id": "a155d029-d297-4047-9ea8-9cc2fcb28c87",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/sprite128\/sprite128.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1726,6 +1726,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/mineexplosion\/mineexplosion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5a062f3c-7913-4aa3-bb97-e7661100f447",
+            "Value": {
+                "id": "82b8963d-fbe2-4ff0-88e2-323e13d3e4d4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite131\/sprite131.yy",
                 "resourceType": "GMSprite"
             }
         },

@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Obj_Exit",
     "eventList": [
-        
+        {
+            "id": "d4be1230-b931-4d1c-ac53-095d55f9815d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 13,
+            "m_owner": "f83b32b3-5788-4e2f-b568-f826b7a2c6dd"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
