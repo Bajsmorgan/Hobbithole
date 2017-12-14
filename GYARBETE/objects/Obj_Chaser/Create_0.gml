@@ -1,6 +1,6 @@
 Speed = 0.5;
 ObjectType = CollisionType.Enemy;
-Sight = 564;
+Sight = 150;
 state = enemyIdleState;
 /// Jeff king
 TargetX = 0;
