@@ -2072,6 +2072,25 @@
             }
         },
         {
+            "Key": "6caa984d-a37e-4f9a-bed8-21356a181872",
+            "Value": {
+                "id": "72a48f06-e755-4805-b07b-89ee3f34c618",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/enemyChaseState\/enemyChaseState.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "6ce02590-43ca-47cd-8099-5e86d58906db",
             "Value": {
                 "id": "df5bbdf4-0f2c-487e-93b6-9806f3409972",
@@ -2376,6 +2395,25 @@
             }
         },
         {
+            "Key": "78fe0d01-f912-464b-abdc-bde32fba9060",
+            "Value": {
+                "id": "576f9314-ef64-4113-b15e-d8a13d628967",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/chooseNextState\/chooseNextState.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "79794c55-3312-4e3a-986e-73b4d92ed867",
             "Value": {
                 "id": "186bfc9b-8a8d-4429-a217-723c07b24b0d",
@@ -2471,6 +2509,25 @@
             }
         },
         {
+            "Key": "7e3bf053-f52f-4e4a-87c2-58183dc3d951",
+            "Value": {
+                "id": "30a04e0e-cee4-4910-b763-41135df3d31f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/enemyIdleState\/enemyIdleState.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "80c31012-d7e0-454c-997c-052c068a226b",
             "Value": {
                 "id": "ff5a7926-91d2-4740-b9f1-bfb3fc7bcd60",
@@ -2544,6 +2601,25 @@
                 ],
                 "resourcePath": "sprites\/corruption1\/corruption1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "854bc609-e922-4ca5-8746-a33bdcbf12f4",
+            "Value": {
+                "id": "d94489f1-f0f1-44ad-a62c-854bb951bf73",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/checkForPlayer\/checkForPlayer.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -3193,6 +3269,25 @@
             }
         },
         {
+            "Key": "ae531750-632e-4198-ac2d-f0086eeb4c62",
+            "Value": {
+                "id": "d9813d88-68e8-47bd-a478-c7b89ec9ed14",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/ae531750-632e-4198-ac2d-f0086eeb4c62.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "aebe8e0d-1c6b-4adf-a182-27cd412fbd03",
             "Value": {
                 "id": "9b374371-1886-4b76-b1ea-f0475273cc89",
@@ -3608,6 +3703,25 @@
                 ],
                 "resourcePath": "sprites\/chaser_damaged\/chaser_damaged.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c2a23850-a97e-4faa-b64b-ff50f3422e19",
+            "Value": {
+                "id": "23b3c57b-4336-43be-827b-3da6f224edfc",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/enemyWanderState\/enemyWanderState.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -4739,6 +4853,11 @@
         "6dd14b8f-b460-41f1-bdd0-011555c544f3",
         "2b4b04c7-8bf1-4de5-bc4f-0218f7138926",
         "06134edb-6d47-4dab-8f6e-ad9cf29c6892",
+        "c2a23850-a97e-4faa-b64b-ff50f3422e19",
+        "7e3bf053-f52f-4e4a-87c2-58183dc3d951",
+        "6caa984d-a37e-4f9a-bed8-21356a181872",
+        "854bc609-e922-4ca5-8746-a33bdcbf12f4",
+        "78fe0d01-f912-464b-abdc-bde32fba9060",
         "49c6e9c6-0799-440e-90bb-b90935040772",
         "a60b1a81-b440-4e54-8db2-f18375deb941",
         "1878ce99-3328-4e6c-90de-e724bfbfae86"
