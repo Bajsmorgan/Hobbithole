@@ -1,6 +1,4 @@
-TargetX = Obj_Player.x - x;
-TargetY = Obj_Player.y - y;
-
+checkForPlayer();
 var _targetX = sign(TargetX) *Speed;
 var _targetY = sign(TargetY) *Speed;
 
