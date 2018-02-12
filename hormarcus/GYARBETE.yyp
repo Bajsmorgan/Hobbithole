@@ -680,7 +680,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/room_docks\/room_docks.yy",
+                "resourcePath": "rooms\/room_gamestart\/room_gamestart.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -1176,25 +1176,6 @@
                 ],
                 "resourcePath": "objects\/Obj_View\/Obj_View.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "37ca8c7d-7fa3-4709-8513-8bd6e9691fa6",
-            "Value": {
-                "id": "8de54fda-2d1d-4b18-ada1-8274e8632e4c",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "rooms\/room_town\/room_town.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -1727,25 +1708,6 @@
                 ],
                 "resourcePath": "sprites\/box\/box.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "5821622f-0968-4745-b155-2a2932a1019f",
-            "Value": {
-                "id": "8c3dfb65-e768-4fd2-b97b-56583b8be0ad",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "rooms\/room_boss\/room_boss.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -2509,25 +2471,6 @@
             }
         },
         {
-            "Key": "7e7d9820-5cc9-4ae7-9efb-ca6a9fdc6152",
-            "Value": {
-                "id": "d94b768d-aff3-41ef-8888-bcc166e252f4",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "rooms\/room_forest\/room_forest.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "80c31012-d7e0-454c-997c-052c068a226b",
             "Value": {
                 "id": "ff5a7926-91d2-4740-b9f1-bfb3fc7bcd60",
@@ -3250,6 +3193,25 @@
             }
         },
         {
+            "Key": "aa2fdf7a-a8d2-4f6b-89c1-fa5f1a3a26ba",
+            "Value": {
+                "id": "434ab88e-a855-4a7a-a181-74422f7b4f0b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/room_gameend\/room_gameend.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "aad892e4-c42e-4875-9e49-8c5d2053dae8",
             "Value": {
                 "id": "8bff25ac-622c-47cb-bff2-d301aad9f03d",
@@ -3266,25 +3228,6 @@
                 ],
                 "resourcePath": "views\/aad892e4-c42e-4875-9e49-8c5d2053dae8.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "ac1e6423-aaa2-485c-b0a5-1b60fa4a7402",
-            "Value": {
-                "id": "e7bee704-68af-4e96-834c-f2a26c9a0afd",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "rooms\/room_mountain\/room_mountain.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
