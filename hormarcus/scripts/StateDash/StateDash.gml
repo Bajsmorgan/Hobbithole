@@ -1,4 +1,4 @@
-_length = Speed*2.5;
+ _length = Speed*2.5;
 
 xAxis = lengthdir_x(_length, _direction);
 yAxis = lengthdir_y(_length, _direction);
