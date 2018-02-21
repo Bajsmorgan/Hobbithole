@@ -6,11 +6,6 @@
     "children": [
         "431d77b5-64ed-4555-8ff2-08512362bd29",
         "f0207f99-4404-485f-b844-baf180a21627",
-        "a211efce-cc24-49fc-8120-7698e4c4c96b",
-        "1be614db-e060-4918-bd09-a6c5396d8c46",
-        "35b0d88d-471d-4c3e-9121-4249c8602700",
-        "c7fed18a-e7ef-41e3-b328-c94afaa2693d",
-        "a8fedef2-27b8-4535-97a1-b8f0c5b3b147",
         "8e7cb267-db11-4a84-92de-3179a3ed617a",
         "4e40c377-0920-44f6-b40a-2debfab51b6e",
         "0bf09203-e1ca-4e0b-8869-b4b4e363f968",
@@ -25,14 +20,10 @@
         "246c2202-071f-48d5-9025-4a596f6bc8fd",
         "80c31012-d7e0-454c-997c-052c068a226b",
         "9863025c-d4a0-409b-b044-2c788c154b90",
-        "a97f993b-f456-4aa8-8088-1f39c5e1fd0b",
-        "8c8150ea-e9dd-4beb-b1dc-c420c16cd4b3",
         "d4633f40-6791-4ee5-a40b-c1f2e23c20de",
         "a09bacc7-b0b5-49cd-bed9-75bb5534b4b6",
         "4f4831f4-011b-42f9-a3a3-a58126907dc2",
-        "5989e448-9ee4-4d8d-aad0-60c501d5bb15",
-        "ddf5faf3-501f-4495-afcf-53d6f393bf17",
-        "9e38de02-18df-46bb-972c-3a53a5bb6d49"
+        "5989e448-9ee4-4d8d-aad0-60c501d5bb15"
     ],
     "filterType": "GMSprite",
     "folderName": "Animations",

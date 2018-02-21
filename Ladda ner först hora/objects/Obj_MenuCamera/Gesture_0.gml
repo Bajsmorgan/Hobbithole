@@ -1,1 +1,0 @@
-if (follow = Obj_MainmenuCamera) follow = Obj_SettingsCamera; else follow = Obj_MainmenuCamera;
