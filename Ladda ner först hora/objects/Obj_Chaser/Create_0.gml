@@ -5,3 +5,4 @@ path = path_add();
 TargetX = 0;
 TargetY = 0;
 Creator = 0;
+state = enemyIdleState;
