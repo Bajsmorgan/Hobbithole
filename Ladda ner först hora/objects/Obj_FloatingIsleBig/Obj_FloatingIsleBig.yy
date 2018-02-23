@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Obj_FloatingIsleBig",
     "eventList": [
-        
+        {
+            "id": "19bdedd9-dd17-4238-b0d6-9958381011f7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "13237576-ec75-4dad-930b-61a5498edce6"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
