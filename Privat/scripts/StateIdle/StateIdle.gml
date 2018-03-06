@@ -1,5 +1,5 @@
-x_speed_ += xAxis * acceleration_;
-y_speed_ += yAxis * acceleration_;
+x_speed_ += xAxismove * acceleration_;
+y_speed_ += yAxismove * acceleration_;
 var _speed = point_distance(0, 0, x_speed_, y_speed_);
 var _direction = point_direction(0, 0, x_speed_, y_speed_);
 if (_speed > max_speed_) {
@@ -7,14 +7,14 @@ if (_speed > max_speed_) {
 	y_speed_ = lengthdir_y(max_speed_, _direction);
 }
 
-if (xAxis == 0) {
+if (xAxismove == 0) {
 	x_speed_ = lerp(x_speed_, 0, .3);
 }
-if (yAxis == 0) {
+if (yAxismove == 0) {
 	y_speed_ = lerp(y_speed_, 0, .3);
 }
 
-if (xAxis == 0 && yAxis == 0) {
+if (xAxismove == 0 && yAxismove == 0) {
 	image_speed = 0;
 	image_index = 0;
 } else {
@@ -27,4 +27,4 @@ if (x_speed_ > 0) {
 	image_xscale = -1;	
 }
 
-MovementCollide(xAxis, yAxis, Obj_Wall);
+MovementCollide(xAxismove, yAxismove, Obj_Wall);

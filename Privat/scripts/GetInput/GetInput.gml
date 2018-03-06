@@ -1,19 +1,25 @@
 //Get Inputs
 
-xAxis = keyboard_check(vk_right) - keyboard_check(vk_left);
-yAxis = keyboard_check(vk_down) - keyboard_check(vk_up);
+//Keyboard
+xAxismove = keyboard_check_pressed(ord("D")) - keyboard_check_pressed(ord("A"));
+yAxismove = keyboard_check_pressed(ord("S")) - keyboard_check_pressed(ord("W"));
 
-Attack = keyboard_check_pressed(vk_space);
-Dash = keyboard_check_pressed(ord("C"));
-Melee = keyboard_check_pressed(vk_enter);
+xAxisaim = keyboard_check(vk_right) - keyboard_check(vk_left);
+yAxisaim = keyboard_check(vk_down) - keyboard_check(vk_up);
 
+Switchweapon = keyboard_check_pressed(ord("X"));
+Attack = keyboard_check(vk_space);
+
+//Controller
 if (gamepad_is_connected(0))
 {
-	gamepad_set_axis_deadzone(0, .4);
-	xAxis = gamepad_axis_value(0, gp_axislh);
-	yAxis = gamepad_axis_value(0, gp_axislv);
-	//
-	Attack = gamepad_button_check_pressed(0, gp_face2);
-	Dash = gamepad_button_check_pressed(0, gp_face1);
-	Melee = gamepad_button_check_pressed(0, gp_face3);
+	gamepad_set_axis_deadzone(0, 0.4);
+	xAxismove = gamepad_axis_value(0, gp_axislh);
+	yAxismove = gamepad_axis_value(0, gp_axislv);
+	
+	xAxisaim = gamepad_axis_value(0, gp_axisrh);
+	yAxisaim = gamepad_axis_value(0, gp_axisrv);
+
+	Switchweapon = gamepad_button_check_pressed(0, gp_shoulderlb);
+	Attack = gamepad_button_check_pressed(0, gp_shoulderrb);
 }

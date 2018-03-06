@@ -2072,25 +2072,6 @@
             }
         },
         {
-            "Key": "bee5d3d1-a36e-4ca8-8ac2-03342167b17f",
-            "Value": {
-                "id": "1fbaacbe-d09e-4df9-bbd4-1e925364b270",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "scripts\/StateDash\/StateDash.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "c03c3a05-0b80-4b76-91af-9346c7f319a3",
             "Value": {
                 "id": "a615fff7-bf78-4f9d-ac12-cb3710ddad93",
@@ -2107,6 +2088,25 @@
                 ],
                 "resourcePath": "sprites\/boss_attackend\/boss_attackend.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c0995596-d1df-427c-90ff-91d8e6a75afe",
+            "Value": {
+                "id": "81b6d7b8-6a4d-4492-b232-aa7fea35a053",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/StateRanged\/StateRanged.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -2164,6 +2164,25 @@
                 ],
                 "resourcePath": "sprites\/boss_channel\/boss_channel.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c606dfae-61c0-4dbb-baea-76b78c2a19ce",
+            "Value": {
+                "id": "99add417-4c2e-48f5-8e3e-046dec2e5609",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/StateMelee\/StateMelee.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -2468,6 +2487,25 @@
                 ],
                 "resourcePath": "objects\/Obj_Chest\/Obj_Chest.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d99f34d2-d5b2-4e83-a05d-baa70466d71a",
+            "Value": {
+                "id": "b005c3ce-5388-43ef-938a-a9202f6dded6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/room_test\/room_test.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -2917,9 +2955,10 @@
         "1aa75c38-46af-4b50-8904-f897fd5c38e3",
         "7240f447-7052-42c0-aead-b67976006b93",
         "3a0e35fd-7a56-4d1d-8193-9483673ff23a",
-        "b051a9f3-2c32-4be7-a08c-a2efdaa03417",
         "fb7e1c77-7ef6-4afa-a490-eabad45a2160",
-        "bee5d3d1-a36e-4ca8-8ac2-03342167b17f"
+        "b051a9f3-2c32-4be7-a08c-a2efdaa03417",
+        "c606dfae-61c0-4dbb-baea-76b78c2a19ce",
+        "c0995596-d1df-427c-90ff-91d8e6a75afe"
     ],
     "tutorial": ""
 }
