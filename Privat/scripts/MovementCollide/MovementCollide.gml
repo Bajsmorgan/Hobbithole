@@ -12,6 +12,7 @@ if (place_meeting(x+_x, y, _obj))
 	_x = 0;
 }
 x += _x;
+
 if (place_meeting(x, y+_y, _obj))
 {
 	while(!place_meeting(x, y+sign(_y), _obj))

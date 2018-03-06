@@ -5,4 +5,3 @@ enum CollisionType
 	Neutral,
 	Enemy
 };
-ObjectType = CollisionType.Immortal;

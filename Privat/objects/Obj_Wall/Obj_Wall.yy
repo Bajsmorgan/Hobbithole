@@ -2,7 +2,7 @@
     "id": "64811ea6-12da-4a95-9495-b2554facbc5c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Obj_Collision",
+    "name": "Obj_Wall",
     "eventList": [
         {
             "id": "0bac6a8a-73f8-427e-9251-4c578dddb5af",
@@ -34,5 +34,5 @@
     "properties": null,
     "solid": false,
     "spriteId": "4c19738d-a689-49bf-86d4-3f5295c2e348",
-    "visible": true
+    "visible": false
 }
