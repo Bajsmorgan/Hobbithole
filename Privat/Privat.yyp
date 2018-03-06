@@ -737,7 +737,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/birdred\/birdred.yy",
+                "resourcePath": "sprites\/seagull\/seagull.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -928,6 +928,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/Barrel_2stack\/Barrel_2stack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "565d8d65-74b9-40b4-aff8-c98da038c2c1",
+            "Value": {
+                "id": "3fd3b23b-8b23-4821-b58a-926ccf28f28c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/StateR\/StateR.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1136,7 +1155,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/birdgreen\/birdgreen.yy",
+                "resourcePath": "sprites\/haeger\/haeger.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1309,6 +1328,25 @@
                 ],
                 "resourcePath": "views\/79d85d40-9248-4eac-a847-2b1b2f624af0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "79ecfd63-ee29-42fc-8a72-ff764a575861",
+            "Value": {
+                "id": "bf4a3228-c905-45b9-8f44-27a317855fce",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/StateM\/StateM.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2181,7 +2219,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/birdblue\/birdblue.yy",
+                "resourcePath": "sprites\/raven\/raven.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2334,25 +2372,6 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/Wallshadow\/Wallshadow.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d4b26526-fa09-4cfe-a3f7-2ec3d29e2891",
-            "Value": {
-                "id": "29fb1b0d-2433-456a-8cf0-ad033167e07e",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/ColliderCell\/ColliderCell.yy",
                 "resourceType": "GMSprite"
             }
         },
