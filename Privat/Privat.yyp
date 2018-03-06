@@ -400,6 +400,25 @@
             }
         },
         {
+            "Key": "1b50b9e4-68c5-4203-97ef-1722f314fb48",
+            "Value": {
+                "id": "43e7a507-ee21-4900-93e5-7669a058debe",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/StateM\/StateM.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1c2b8d4b-10d7-474e-8716-8e8740081c8f",
             "Value": {
                 "id": "14c9a724-2386-4b59-a8c4-6f989e166fc6",
@@ -1499,6 +1518,25 @@
                 ],
                 "resourcePath": "rooms\/room_entrance\/room_entrance.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "868698d2-b938-4373-b1f6-2989d75c1ef5",
+            "Value": {
+                "id": "2f3b47ae-dffd-486f-a46f-3295b14b2516",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/StateR\/StateR.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2890,6 +2928,11 @@
         }
     ],
     "script_order": [
+<<<<<<< HEAD
+=======
+        "fb7e1c77-7ef6-4afa-a490-eabad45a2160",
+        "bee5d3d1-a36e-4ca8-8ac2-03342167b17f",
+>>>>>>> 86f80c226ac975a16dfd6f8b5b0e0709064f0c63
         "7e3bf053-f52f-4e4a-87c2-58183dc3d951",
         "49c6e9c6-0799-440e-90bb-b90935040772",
         "d83e9309-54f8-4f69-a340-3326780a3005",
@@ -2897,10 +2940,14 @@
         "098c9c6d-7b2a-4816-86d3-581a6f30ea7f",
         "1aa75c38-46af-4b50-8904-f897fd5c38e3",
         "7240f447-7052-42c0-aead-b67976006b93",
+<<<<<<< HEAD
         "3a0e35fd-7a56-4d1d-8193-9483673ff23a",
         "b051a9f3-2c32-4be7-a08c-a2efdaa03417",
         "fb7e1c77-7ef6-4afa-a490-eabad45a2160",
         "bee5d3d1-a36e-4ca8-8ac2-03342167b17f"
+=======
+        "3a0e35fd-7a56-4d1d-8193-9483673ff23a"
+>>>>>>> 86f80c226ac975a16dfd6f8b5b0e0709064f0c63
     ],
     "tutorial": ""
 }
