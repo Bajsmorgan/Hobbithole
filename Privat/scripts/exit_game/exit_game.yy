@@ -1,5 +1,5 @@
 {
-    "id": "098c9c6d-7b2a-4816-86d3-581a6f30ea7f",
+    "id": "f7de0c4e-b32f-499b-a069-8501295700cd",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "exit_game",

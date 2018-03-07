@@ -1,5 +1,5 @@
 {
-    "id": "7240f447-7052-42c0-aead-b67976006b93",
+    "id": "128960fc-a4c1-4bc8-9b13-38ae091b9975",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "change_volume",

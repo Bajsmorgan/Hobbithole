@@ -1,5 +1,5 @@
 {
-    "id": "3a0e35fd-7a56-4d1d-8193-9483673ff23a",
+    "id": "7fefd912-28db-4537-8595-c6a81d2ee1b1",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "change_window_mode",
