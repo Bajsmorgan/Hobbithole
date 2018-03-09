@@ -1179,6 +1179,25 @@
             }
         },
         {
+            "Key": "6ce752f9-311b-4eb0-9815-92f219afaacd",
+            "Value": {
+                "id": "32e9e4b6-ed49-449f-bdda-d5df10b4da6d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/Range_Finder\/Range_Finder.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "6e21d0d5-e777-4ed6-9b8b-8114702f877d",
             "Value": {
                 "id": "36dcb2a7-a312-4736-8a86-2cdda236cff0",
@@ -2034,6 +2053,25 @@
             }
         },
         {
+            "Key": "b474121e-3999-458e-a76e-d6b710b7d099",
+            "Value": {
+                "id": "2723c504-b54a-4264-96e3-f060051ada2b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Healthborder\/Healthborder.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b48f096b-8390-42d4-89f3-bce57341894c",
             "Value": {
                 "id": "07aa227c-8d54-48d9-9825-af483487f8fa",
@@ -2107,6 +2145,25 @@
                 ],
                 "resourcePath": "views\/b775eead-cc6a-4aaf-a2e2-4f1767210ba3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b7b7d25f-696e-4cf9-b57a-7f57d5e4544c",
+            "Value": {
+                "id": "ac660cf6-c1fe-49e8-93db-67dfb9c4db91",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Healthbackground\/Healthbackground.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2338,6 +2395,25 @@
             }
         },
         {
+            "Key": "cab8b0ba-ff12-4606-8061-1255a7b3b33a",
+            "Value": {
+                "id": "316a4d2d-7ae9-490c-a063-3805e13d6f1b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/cab8b0ba-ff12-4606-8061-1255a7b3b33a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "c791ed4a-adc9-4c96-a497-81e5b3466591",
@@ -2449,6 +2525,25 @@
                 ],
                 "resourcePath": "objects\/Obj_Changeroom\/Obj_Changeroom.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d620d684-edbe-4cd6-9af9-3bd83a0a5a41",
+            "Value": {
+                "id": "27b17798-52b7-479a-b246-dfff3fc1a19e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Healthfiller\/Healthfiller.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2677,6 +2772,25 @@
                 ],
                 "resourcePath": "sprites\/Barrel\/Barrel.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e3f4bcc9-49b2-49fb-ba18-946a6dfc4089",
+            "Value": {
+                "id": "31baae09-a07e-462f-8369-469200289e5e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Obj_Range\/Obj_Range.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -2991,6 +3105,7 @@
         "b051a9f3-2c32-4be7-a08c-a2efdaa03417",
         "c606dfae-61c0-4dbb-baea-76b78c2a19ce",
         "c0995596-d1df-427c-90ff-91d8e6a75afe",
+        "6ce752f9-311b-4eb0-9815-92f219afaacd",
         "66917054-885a-4f9c-a084-7f9be929064e",
         "77876600-d5b8-4c43-b434-7de4b5b6e8fe",
         "f7de0c4e-b32f-499b-a069-8501295700cd",
