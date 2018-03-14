@@ -1,0 +1,1 @@
+if (sprite_index = boss_attackstart) sprite_index = boss_attackloop;

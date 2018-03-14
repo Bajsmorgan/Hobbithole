@@ -6,7 +6,8 @@
     "children": [
         "42a1d18a-14f2-42b3-9f1f-f8a535b02f22",
         "1ab3a758-14b2-4351-bb39-0844fd0773dc",
-        "cd1d18f0-904e-4a58-b1a8-96f71cdd1142"
+        "cd1d18f0-904e-4a58-b1a8-96f71cdd1142",
+        "91fc5740-95ed-4066-950f-9c8bce2fe03b"
     ],
     "filterType": "GMObject",
     "folderName": "Lightning",

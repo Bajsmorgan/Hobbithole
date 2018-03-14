@@ -4,9 +4,9 @@
     "mvc": "1.1",
     "name": "c71366cf-0147-474f-bcf8-8877c6be6451",
     "children": [
-        "f52ff3f2-5286-4d00-b864-67b8a1275d47",
+        "93d4f8ab-3665-45da-a4bc-2cf5e111791e",
         "22eb3f9a-6c26-4b09-959a-b94ed70b698b",
-        "cab2bf9a-0bc6-48df-9461-670e52809cad"
+        "f52ff3f2-5286-4d00-b864-67b8a1275d47"
     ],
     "filterType": "GMObject",
     "folderName": "Enemy",
