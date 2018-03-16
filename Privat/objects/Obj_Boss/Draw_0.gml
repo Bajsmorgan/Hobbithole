@@ -1,0 +1,1 @@
+if (sprite_index = boss_summon) draw_sprite(summon_effect,-1,x,y);

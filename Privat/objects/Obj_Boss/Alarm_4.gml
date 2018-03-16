@@ -1,6 +1,15 @@
-/// @description Spawn enemies
-var randomx = random_range(224,383);
-var randomy = random_range(289,416);
+/// @description End phase
+alarm[1] = 0;
+alarm[2] = 0;
+alarm[3] = 0;
+instance_destroy(Obj_Marker);
+image_index = 0;
 
-instance_create_depth(randomx,randomy,depth,Obj_Chaser)
-alarm[4] = 6 * room_speed;
+switch (sprite_index){
+	case boss_attackloop:
+	sprite_index = boss_attackend;
+	break;
+	case boss_summon:
+	sprite_index = boss_disappears;
+	break;
+}

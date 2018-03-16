@@ -1,5 +1,5 @@
 direction = image_angle;
-image_angle += 1;
+image_angle += 0.5;
 
 for(var i = 0; i < 9999; i++){
 
