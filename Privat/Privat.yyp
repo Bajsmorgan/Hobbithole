@@ -438,25 +438,6 @@
             }
         },
         {
-            "Key": "22eb3f9a-6c26-4b09-959a-b94ed70b698b",
-            "Value": {
-                "id": "6d04a276-5ff5-482f-8182-c099b837ccdf",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/Obj_Enemy\/Obj_Enemy.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "23d34d08-89f0-4409-a6d4-38acecc28364",
             "Value": {
                 "id": "d527b94c-c192-4beb-9c78-c2ece450a8be",
@@ -568,6 +549,25 @@
                 ],
                 "resourcePath": "sprites\/Barrel_10stack\/Barrel_10stack.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2f28248c-1fa5-4245-9b8a-38393475b77d",
+            "Value": {
+                "id": "8a1e757e-a457-45c2-ace9-cb722738bc58",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Obj_Meteor\/Obj_Meteor.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -723,25 +723,6 @@
             }
         },
         {
-            "Key": "46a1b368-9151-449b-ad86-b685910b7c59",
-            "Value": {
-                "id": "25d2edc5-7e82-433f-b5b3-431ad6fee331",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/foulground\/foulground.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "485a5b0d-745d-4cbc-ba6c-9499bac58c93",
             "Value": {
                 "id": "78d5f040-6e9d-4a61-ba05-d1cceafeab87",
@@ -851,7 +832,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/corruption_crystal\/corruption_crystal.yy",
+                "resourcePath": "sprites\/crystal\/crystal.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1706,7 +1687,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/Obj_Lightspell\/Obj_Lightspell.yy",
+                "resourcePath": "objects\/Obj_Lightcrystal\/Obj_Lightcrystal.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2618,7 +2599,26 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/foulexplosion\/foulexplosion.yy",
+                "resourcePath": "sprites\/explosion\/explosion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d02c549a-ff03-429f-8d96-eac917658b13",
+            "Value": {
+                "id": "915b02a1-2483-4c6f-84c3-cb63c3fcd5c8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/preexplosion\/preexplosion.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2979,7 +2979,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/foulmeteor\/foulmeteor.yy",
+                "resourcePath": "sprites\/meteor\/meteor.yy",
                 "resourceType": "GMSprite"
             }
         },

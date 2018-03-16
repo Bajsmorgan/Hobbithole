@@ -1,3 +1,4 @@
+/// @description Spawn crystals
 var randomx = random_range(224,383);
 var randomy = random_range(289,416);
 

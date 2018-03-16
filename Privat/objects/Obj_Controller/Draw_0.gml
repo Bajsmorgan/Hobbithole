@@ -18,7 +18,7 @@ draw_sprite_ext(Light,0,x*other.surfscale,y*other.surfscale,lightsize*other.surf
 	gpu_set_blendmode(bm_normal);
 }
 
-with (Obj_Lightspell)
+with (Obj_Lightcrystal)
 {
 	gpu_set_blendmode(bm_subtract);
 	draw_sprite_ext(Light,0,x*other.surfscale,y*other.surfscale,lightsize*other.surfscale,lightsize*other.surfscale,0,c_black,1);

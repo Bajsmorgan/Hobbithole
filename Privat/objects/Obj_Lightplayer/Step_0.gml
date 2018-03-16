@@ -4,4 +4,4 @@ lightsize += z;
 lightsize = clamp(lightsize,1,1.25);
 
 x = Obj_Player.x;
-y = Obj_Player.y;
+y = Obj_Player.y - 8;
