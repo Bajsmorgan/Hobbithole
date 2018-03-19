@@ -6,16 +6,22 @@ if (sprite_index = boss_attackloop){
 	if (alarm[2] < 0 ) {
 	 alarm[2] = 3 * room_speed;
 	}
-	if (alarm[4] < 0 ) {
-	 alarm[4] = 18 * room_speed;
+	if (alarm[5] < 0 ) {
+	 alarm[5] = 18 * room_speed;
 	}
 }
 
 if (sprite_index = boss_summon){
+	if (alarm[2] < 0 ) {
+	 alarm[2] = 1 * room_speed;
+	}
 	if (alarm[3] < 0 ) {
 	 alarm[3] = 1 * room_speed;
 	}
 	if (alarm[4] < 0 ) {
-	 alarm[4] = 18 * room_speed;
+	 alarm[4] = 1 * room_speed;
+	}
+	if (alarm[5] < 0 ) {
+	 alarm[5] = 18 * room_speed;
 	}
 }

@@ -1,3 +1,4 @@
 /// @description Spawn spray bolts
-instance_create_depth(x,y,depth,Obj_Spray);
-alarm[3] = 0.5 * room_speed;
+if (instance_exists(Obj_Circular)) instance_create_depth(x,y,depth,Obj_Spray1);
+if (instance_exists(Obj_Circular)) instance_create_depth(x,y,depth,Obj_Spray2);
+alarm[3] = 1/8 * room_speed;

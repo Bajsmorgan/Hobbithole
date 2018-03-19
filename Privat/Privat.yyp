@@ -242,7 +242,7 @@
             "Key": "28fb02ef-cae6-4ad6-b091-7640fdcc9dbe",
             "Value": {
                 "id": "627ae4e4-6d92-4621-be51-9a5947c13ec0",
-                "resourcePath": "objects\\Obj_Spray\\Obj_Spray.yy",
+                "resourcePath": "objects\\Obj_Spray2\\Obj_Spray2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -291,6 +291,14 @@
             "Value": {
                 "id": "b4a3bc42-eb11-4be3-bc07-84f54b0a4a5f",
                 "resourcePath": "objects\/Obj_Controller\/Obj_Controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4311b9c4-8816-45f2-96fe-d2ac07eb057c",
+            "Value": {
+                "id": "ad6c3a71-a022-41bc-8adc-0f2067ecbde8",
+                "resourcePath": "objects\\Obj_Circular\\Obj_Circular.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1012,6 +1020,14 @@
                 "id": "81b6d7b8-6a4d-4492-b232-aa7fea35a053",
                 "resourcePath": "scripts\/StateRanged\/StateRanged.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c220f206-717c-4fda-b521-8dd9f01bda9b",
+            "Value": {
+                "id": "5812143d-26e9-4065-80a8-c6893f3a9a5c",
+                "resourcePath": "objects\\Obj_Spray1\\Obj_Spray1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
