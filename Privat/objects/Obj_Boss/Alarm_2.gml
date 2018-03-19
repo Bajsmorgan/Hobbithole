@@ -8,5 +8,5 @@ if (sprite_index = boss_summon) {
 var randomx = random_range(224,383);
 var randomy = random_range(289,416);
 instance_create_depth(randomx,randomy,depth,Obj_Marker)
-alarm[2] = 0.25 * room_speed;
+alarm[2] = 1/8 * room_speed;
 }

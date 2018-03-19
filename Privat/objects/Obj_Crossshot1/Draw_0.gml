@@ -1,5 +1,6 @@
 direction = image_angle;
 image_angle += 0.5;
+depth = Obj_Crystal.depth + 1;
 
 for(var i = 0; i < 9999; i++){
 
@@ -10,4 +11,11 @@ for(var i = 0; i < 9999; i++){
     }
 
 }
-draw_line_color(x,y,lx,ly,c_red,c_red);
+height = sin(random(1));
+draw_set_color(purple);
+draw_line_width(x, y, lx, ly, (height * 16) + 0.1);
+draw_set_color(ltpurple);
+draw_line_width(x, y, lx, ly, (height * 8) + 0.1);
+draw_set_color(pink);
+draw_line_width(x, y, lx, ly, (height * 5) + 0.1);
+draw_sprite_ext(Laserhit,1,lx,ly,0.5,0.5,direction + 90,-1,1);
