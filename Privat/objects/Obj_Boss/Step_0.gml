@@ -4,14 +4,14 @@ if (sprite_index = boss_attackloop){
 	 alarm[1] = 1 * room_speed;
 	}
 	if (alarm[2] < 0 ) {
-	 alarm[2] = 3 * room_speed;
+	 alarm[2] = 2 * room_speed;
 	}
-	if (alarm[5] < 0 ) {
-	 alarm[5] = 18 * room_speed;
+	if (alarm[6] < 0 ) {
+	 alarm[6] = 18 * room_speed;
 	}
 }
 
-if (sprite_index = boss_summon){
+if (sprite_index = boss_channel){
 	if (alarm[2] < 0 ) {
 	 alarm[2] = 1 * room_speed;
 	}
@@ -19,10 +19,19 @@ if (sprite_index = boss_summon){
 	 alarm[3] = 1 * room_speed;
 	}
 	if (alarm[4] < 0 ) {
-	 alarm[4] = 1 * room_speed;
+	 alarm[4] = 1  * room_speed;
 	}
+	if (alarm[6] < 0 ) {
+	 alarm[6] = 18 * room_speed;
+	}
+}
+
+if (sprite_index = boss_channel){
 	if (alarm[5] < 0 ) {
-	 alarm[5] = 18 * room_speed;
+	 alarm[5] = 1 * room_speed;
+	}
+	if (alarm[6] < 0 ) {
+	 alarm[6] = 18 * room_speed;
 	}
 }
 

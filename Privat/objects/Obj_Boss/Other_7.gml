@@ -5,9 +5,12 @@ switch (sprite_index){
 	if (spritetime = 0) sprite_index = boss_idle;
 	if (spritetime = 3){
 	spritetime = 4;
-	sprite_index = boss_summon;
+	sprite_index = boss_channel;
 	}
-	if (spritetime = 5) sprite_index = boss_idle;
+	if (spritetime = 5){
+	spritetime = 6;
+	sprite_index = boss_idle;
+	}
 	break;
 	
 	case boss_idle:
@@ -18,6 +21,10 @@ switch (sprite_index){
 	if (spritetime = 2){
 	spritetime = 3;
 	sprite_index = boss_disappears;
+	}
+	if (spritetime = 6){
+	spritetime = 7;
+	sprite_index = boss_summon;
 	}
 	break;
 	

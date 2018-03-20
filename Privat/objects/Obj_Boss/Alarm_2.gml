@@ -4,7 +4,7 @@ if (sprite_index = boss_attackloop) {
 	alarm[2] = 0.5 * room_speed;
 }
 
-if (sprite_index = boss_summon) {
+if (sprite_index = boss_channel) {
 var randomx = random_range(224,383);
 var randomy = random_range(289,416);
 instance_create_depth(randomx,randomy,depth,Obj_Marker)
