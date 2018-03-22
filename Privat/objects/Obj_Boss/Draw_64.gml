@@ -1,0 +1,1 @@
+draw_sprite_ext(Bosshealthborder,-1,room_width/2,room_height,6.5,6.5,0,-1,1);
