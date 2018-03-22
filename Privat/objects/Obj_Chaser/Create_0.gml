@@ -1,5 +1,5 @@
 Speed = 1.5;
-ObjectType = CollisionType.Enemy;
+//ObjectType = CollisionType.Enemy;
 /// Jeff king
 path = path_add();
 TargetX = 0;
