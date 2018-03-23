@@ -8,6 +8,17 @@ for(var i = 0; i < 9999; i++){
     if(collision_point(lx, ly, Obj_Wall, false, true)){
         break;
     }
+		if(collision_point(lx, ly, Obj_Player, false, true)){
+		with(Obj_Player){
+			if (invincibility == false){
+				hp--;
+				flash = 3;
+				invincibility = true;
+				alarm[0] = room_speed;
+			}
+		}
+        break;
+    }
 
 }
 height = sin(random(1));

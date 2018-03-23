@@ -12,7 +12,7 @@ switch(weaponswitch){
 	if (Attack and firingdelay < 0){
 		switchswing ^= 1;
 		playanimation = 1;
-		firingdelay = 2/4 * room_speed;
+		firingdelay = 1/2 * room_speed;
 	}
 	break;
 	

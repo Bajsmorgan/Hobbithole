@@ -1,5 +1,5 @@
 if(instance_exists(Obj_Arrow)){
-if (sprite_index = Arrowhit) height -= 0.01; else height = 1/5;
+if (sprite_index = Arrowhit) height -= 0.01;
 
 draw_set_color(blue);
 draw_line_width(Objpx, Objpy, x, y, (height * 16) + 0.1);

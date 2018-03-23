@@ -2,6 +2,7 @@
 alarm[1] = 0;
 alarm[2] = 0;
 alarm[3] = 0;
+alarm[5] = 0;
 instance_destroy(Obj_Marker);
 if (!instance_exists(Obj_Spray1 or Obj_Spray2)) instance_destroy(Obj_Circular);
 image_index = 0;
@@ -12,5 +13,8 @@ switch (sprite_index){
 	break;
 	case boss_channel:
 	sprite_index = boss_disappears;
+	break;
+	case boss_summon:
+	sprite_index = boss_death;
 	break;
 }
