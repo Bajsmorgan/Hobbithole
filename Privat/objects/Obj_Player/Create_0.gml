@@ -5,7 +5,7 @@ acceleration_ = .5;
 State = StateIdle;
 
 //Health
-hp = 5;
+hp = 50;
 maxhp = 5;
 flash = 0;
 hppercent = 0;
