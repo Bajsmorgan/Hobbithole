@@ -1,0 +1,1 @@
+if (sprite_index = Arrowhit) instance_destroy();

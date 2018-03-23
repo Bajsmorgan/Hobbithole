@@ -17,4 +17,4 @@ draw_set_color(ltpurple);
 draw_line_width(x, y, lx, ly, (height * 8) + 0.1);
 draw_set_color(pink);
 draw_line_width(x, y, lx, ly, (height * 5) + 0.1);
-draw_sprite_ext(Laserhit,1,lx,ly,0.5,0.5,direction + 180,-1,1);
+draw_sprite_ext(Laserhit,1,lx,ly,0.5,0.5,direction + 90,-1,1);
