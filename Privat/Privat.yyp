@@ -823,6 +823,14 @@
             }
         },
         {
+            "Key": "95a7c50e-20b9-4d97-86a8-cc5d4c36d67f",
+            "Value": {
+                "id": "81f47305-a676-4436-9fba-d3cd65d8455b",
+                "resourcePath": "sprites\\Medkit\\Medkit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "95ac95eb-5251-482e-a7c5-d3d3cafe31b9",
             "Value": {
                 "id": "379719b8-13dd-4b02-90cc-67150120c241",
@@ -1095,6 +1103,14 @@
             }
         },
         {
+            "Key": "bebca10f-a985-4fc9-9036-91763a879fbc",
+            "Value": {
+                "id": "640a8383-d08b-4d55-8762-fcf2c76b91a2",
+                "resourcePath": "objects\\Obj_Medkit\\Obj_Medkit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c03c3a05-0b80-4b76-91af-9346c7f319a3",
             "Value": {
                 "id": "a615fff7-bf78-4f9d-ac12-cb3710ddad93",
@@ -1276,14 +1292,6 @@
                 "id": "c3b6b0ea-fb7b-4ccb-8d91-2a6dc90faec0",
                 "resourcePath": "objects\/Obj_Chest\/Obj_Chest.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "d99f34d2-d5b2-4e83-a05d-baa70466d71a",
-            "Value": {
-                "id": "b005c3ce-5388-43ef-938a-a9202f6dded6",
-                "resourcePath": "rooms\/room_test\/room_test.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
