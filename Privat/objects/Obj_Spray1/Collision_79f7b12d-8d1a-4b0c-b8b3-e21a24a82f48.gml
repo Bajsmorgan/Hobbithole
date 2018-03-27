@@ -6,3 +6,4 @@ with(other){
 		alarm[0] = room_speed;
 	}
 }
+instance_destroy();

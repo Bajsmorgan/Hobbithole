@@ -5,8 +5,8 @@ acceleration_ = .5;
 State = StateIdle;
 
 //Health
-hp = 5;
-maxhp = 5;
+hp = 6;
+maxhp = 6;
 flash = 0;
 hppercent = 0;
 invincibility = false;

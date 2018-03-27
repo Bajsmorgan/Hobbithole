@@ -1,1 +1,1 @@
-direction += 1;
+direction += 3/4;

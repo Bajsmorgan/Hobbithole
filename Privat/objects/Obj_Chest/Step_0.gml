@@ -1,0 +1,1 @@
+if (hp <= 0) instance_change(Obj_Medkit,true);
