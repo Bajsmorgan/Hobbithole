@@ -1,4 +1,4 @@
-Speed = 1.5;
+Speed = .5;
 //ObjectType = CollisionType.Enemy;
 /// Jeff king
 path = path_add();
@@ -8,6 +8,6 @@ Creator = 0;
 state = enemyIdleState;
 
 //Health
-hp = 3;
+hp = 9;
 flash = 0;
 invincibility = false;
