@@ -3,6 +3,7 @@ with(other){
 		hp--;
 		flash = 3;
 		invincibility = true;
-		alarm[0] = room_speed;
+		alarm[0] = 1/2 * room_speed;
 	}
 }
+instance_destroy();

@@ -8,6 +8,6 @@ Creator = 0;
 state = enemyIdleState;
 
 //Health
-hp = 9;
+hp = 5;
 flash = 0;
 invincibility = false;
