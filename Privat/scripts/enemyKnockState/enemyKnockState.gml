@@ -1,8 +1,5 @@
-var initialX = x;
-var inityalY = y;
 image_index = 0;
-var knockback = point_direction(initialX, inityalY, Obj_Player.x, Obj_Player.y);
-motion_set(knockback, -Speed);
+motion_set(knockback + 180, Speed);
 if place_meeting(x, y, Obj_yikes){
 	Speed = 0;
 	}
