@@ -7,7 +7,7 @@ image_angle = point_direction(x,y,Obj_Player.x,Obj_Player.y);
 
 if (distance_to_object(Obj_Player) < 20){
 	image_speed = 1;
-} else if (distance_to_object(Obj_Player) < 150 and distance_to_object(Obj_Player) > 20){ 
+} else if (distance_to_object(Obj_Player) < 125 and distance_to_object(Obj_Player) > 20){ 
 	image_speed = 0;
 	image_index = 0;
 	if (!instance_exists(Obj_Bolt)) instance_create_depth(x,y,depth,Obj_Bolt);
